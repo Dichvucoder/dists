@@ -1,0 +1,14 @@
+Package: php8-crack-apache
+Version: 8.2.5-1
+Architecture: arm
+Maintainer: @Dichvucoder
+Installed-Size: 12400
+Depends: apache2, apr-util, php8-crack (= 8.2.5-1)
+Filename: pool/dvc/php8-crack-apache_8.2.5-1_arm.deb
+Size: 2394964
+MD5sum: e9a71f09a8ce25a58eac7ba1c9056196
+SHA1: d63b3072dbbd8add8b6f25e1073ad8dd984262fb
+SHA256: dd9fc70b63cf2d4cfbc36d9c77c32f54d6704ebd0a2b4b4a7eb5a9f19f673fc1
+Homepage: https://php.net
+Description: Apache 2.0 Handler module for PHP
+

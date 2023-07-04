@@ -1,0 +1,14 @@
+Package: php7-apache
+Version: 7.4.33-7
+Architecture: arm
+Maintainer: @Dichvucoder
+Installed-Size: 10732
+Depends: apache2, php7 (= 7.4.33-7)
+Filename: pool/dvc/php7-apache_7.4.33-7_arm.deb
+Size: 2129392
+MD5sum: 52b70c355b221ab5b37d9118dbd8ede1
+SHA1: d2127d444400e38704f03a0df1d1266e5a288657
+SHA256: 0771425e255a2ba693f5008e9c1bf3da863e418811c26df537e1b7c83e936144
+Homepage: https://php.net
+Description: Apache 2.0 Handler module for PHP
+

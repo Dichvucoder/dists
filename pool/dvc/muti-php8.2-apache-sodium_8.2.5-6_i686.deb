@@ -1,0 +1,14 @@
+Package: muti-php8.2-apache-sodium
+Version: 8.2.5-6
+Architecture: i686
+Maintainer: @Dichvucoder
+Installed-Size: 24
+Depends: libsodium, php-apache, muti-php8.2 (= 8.2.5-6)
+Filename: pool/dvc/muti-php8.2-apache-sodium_8.2.5-6_i686.deb
+Size: 800
+MD5sum: 38ce8e7f46f5d6a1728e7dc6eb0aba92
+SHA1: 206c1e4b49186fee189ea98340253c92271ce9a8
+SHA256: 5ad7e96a1e486b748ca3fae7147add4d59f86a903fd6a33c0880614be705cc44
+Homepage: https://php.net
+Description: Sodium module for PHP/Apache
+

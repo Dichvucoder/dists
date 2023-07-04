@@ -1,0 +1,16 @@
+Package: php7-crack
+Version: 7.4.33-6
+Architecture: x86_64
+Maintainer: @Dichvucoder
+Installed-Size: 46236
+Depends: libc++, freetype, libandroid-glob, libandroid-support, libbz2, libcrypt, libcurl, libgd, libgmp, libiconv, liblzma, libsqlite, libxml2, libxslt, libzip, oniguruma, openssl-1.1, pcre2, readline, zlib, libicu, libffi, tidy
+Conflicts: php, php-mysql, php-dev, php7, php-8.1, php7-zts, php7.2, php7.2-zts, php7.2-threads
+Replaces: php, php-mysql, php-dev, php7, php-8.1, php7-zts, php7.2, php7.2-zts, php7.2-threads
+Filename: pool/dvc/php7-crack_7.4.33-6_x86_64.deb
+Size: 8181168
+MD5sum: d0e9e625ac8e4363e3aa4189333115a7
+SHA1: 91f099adde88207bf996e80265a5a82ec5226c07
+SHA256: 9d20a980ec36ca122bc7c2f4f1c821c6d60c858ef3d83118905275d21d2dd70c
+Homepage: https://php.net
+Description: Server-side, HTML-embedded scripting language + PHP_DECRYPT : PHP CRACK
+

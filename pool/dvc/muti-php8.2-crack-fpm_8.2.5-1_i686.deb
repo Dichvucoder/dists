@@ -1,0 +1,16 @@
+Package: muti-php8.2-crack-fpm
+Version: 8.2.5-1
+Architecture: i686
+Maintainer: @Dichvucoder
+Installed-Size: 14152
+Depends: muti-php8.2-crack (= 8.2.5-1)
+Breaks: php (<< 8.1.12)
+Replaces: php (<< 8.1.12)
+Filename: pool/dvc/muti-php8.2-crack-fpm_8.2.5-1_i686.deb
+Size: 2704596
+MD5sum: 5fd6d7af064fb2ae0bd7112a0cac6be3
+SHA1: 9eac28d0f733c125e3eb86965ba58a8183f90fb0
+SHA256: 8ce67743378d6eb727a5577ef84f3977ba103a5ae61d7b9353becbdd4d9bedda
+Homepage: https://php.net
+Description: FastCGI Process Manager for PHP
+
