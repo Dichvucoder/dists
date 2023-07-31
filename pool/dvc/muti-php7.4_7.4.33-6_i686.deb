@@ -1,0 +1,14 @@
+Package: muti-php7.4
+Version: 7.4.33-6
+Architecture: i686
+Maintainer: @Dichvucoder
+Installed-Size: 45548
+Depends: libc++, freetype, libandroid-glob, libandroid-support, libbz2, libcrypt, libcurl, libgd, libgmp, libiconv, liblzma, libsqlite, libxml2, libxslt, libzip, oniguruma, openssl-1.1, pcre2, readline, zlib, libicu, libffi, tidy
+Filename: pool/dvc/muti-php7.4_7.4.33-6_i686.deb
+Size: 8417164
+MD5sum: 6194e9abd73ab2c8092a80eb14c1958a
+SHA1: 400aac999b6b13176c2579996a12d23059bd1001
+SHA256: ca363b13e730a27694922593d07a1691d00f946fce467b8e53a1ec6c469d34bb
+Homepage: https://php.net
+Description: Server-side, HTML-embedded scripting language
+

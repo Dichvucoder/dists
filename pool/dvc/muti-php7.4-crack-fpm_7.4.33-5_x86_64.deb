@@ -1,0 +1,15 @@
+Package: muti-php7.4-crack-fpm
+Version: 7.4.33-5
+Architecture: x86_64
+Maintainer: @Dichvucoder
+Installed-Size: 13296
+Depends: muti-php7.4-crack (= 7.4.33-5)
+Conflicts: php-fpm
+Filename: pool/dvc/muti-php7.4-crack-fpm_7.4.33-5_x86_64.deb
+Size: 2491776
+MD5sum: 5adb4b6c84538ad3484e5ae711aa0b25
+SHA1: 7839d77f3f7e3ef2ca4fd654506fc278024e473b
+SHA256: a819633c11070b3c852f95578dbd04c7f4eda8150537223d0a4ed7d2a43f647e
+Homepage: https://php.net
+Description: FastCGI Process Manager for PHP
+

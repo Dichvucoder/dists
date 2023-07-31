@@ -1,0 +1,14 @@
+Package: muti-php8.1-pgsql
+Version: 8.1.6-6
+Architecture: x86_64
+Maintainer: @Dichvucoder
+Installed-Size: 24
+Depends: apr-util, postgresql, muti-php8.1 (= 8.1.6-6)
+Filename: pool/dvc/muti-php8.1-pgsql_8.1.6-6_x86_64.deb
+Size: 804
+MD5sum: 971d9e02e0bbae181bd72668b149589c
+SHA1: cc9d20bae5d0b06412f0c1dbdaa43cabae9aba4e
+SHA256: 25c0a6d0633f3ab99f2af306d076476a219f11f0d81a3fec5efc0a20871c099d
+Homepage: https://php.net
+Description: PostgreSQL modules for PHP
+

@@ -1,0 +1,14 @@
+Package: muti-php8.2-crack-ldap
+Version: 8.2.5-2
+Architecture: x86_64
+Maintainer: @Dichvucoder
+Installed-Size: 24
+Depends: openldap, muti-php8.2-crack (= 8.2.5-2)
+Filename: pool/dvc/muti-php8.2-crack-ldap_8.2.5-2_x86_64.deb
+Size: 800
+MD5sum: bdd14f7d4ced308cd0a1fddbf0ec7b91
+SHA1: 24bea9aa727cd33eda39fad799cce1f1aafc04ef
+SHA256: 1b4efba7105841ec0aad68760c5aa0ef704da6c34251754c3c243610ec7f9a59
+Homepage: https://php.net
+Description: LDAP module for PHP
+

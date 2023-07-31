@@ -1,0 +1,14 @@
+Package: muti-php7.4-dichvucoder
+Version: 9.0.1-6
+Architecture: x86_64
+Maintainer: @Dichvucoder
+Installed-Size: 476
+Depends: libandroid-execinfo, muti-php7.4
+Filename: pool/dvc/muti-php7.4-dichvucoder_9.0.1-6_x86_64.deb
+Size: 131840
+MD5sum: 2a6942d6a3ea2b1170139504a045fae8
+SHA1: a36c30a16a9c84cddcc33e6584967790bd97268c
+SHA256: 85275c1267e719fd5a0fb7d4d8e3e3ec117939bb3a17de88a75c20ae7f074648
+Homepage: https://dichvucoder.vn
+Description: An extension supports running php file encoded/obfuscate by dichvucoder.vn
+
