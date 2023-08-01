@@ -6,9 +6,9 @@ Installed-Size: 24
 Depends: apr-util, postgresql, muti-php8.1 (= 8.1.6-6)
 Filename: pool/dvc/muti-php8.1-pgsql_8.1.6-6_x86_64.deb
 Size: 804
-MD5sum: 971d9e02e0bbae181bd72668b149589c
-SHA1: cc9d20bae5d0b06412f0c1dbdaa43cabae9aba4e
-SHA256: 25c0a6d0633f3ab99f2af306d076476a219f11f0d81a3fec5efc0a20871c099d
+MD5sum: be44b649d6126ed1c01825e536e222ab
+SHA1: df10647c0fc73156bb5229b7d41795fb476fbd12
+SHA256: 76f896a9e1530f50b7c9025a3ca628fd1ff622e85dd6acc98c10f18b1260b060
 Homepage: https://php.net
 Description: PostgreSQL modules for PHP
 

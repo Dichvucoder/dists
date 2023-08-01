@@ -5,10 +5,10 @@ Maintainer: @Dichvucoder
 Installed-Size: 49136
 Depends: libc++, freetype, libandroid-glob, libandroid-support, libbz2, libcrypt, libcurl, libgd, libgmp, libiconv, liblzma, libsqlite, libxml2, libxslt, libzip, oniguruma, openssl-1.1, pcre2, readline, zlib, libicu, libffi, tidy
 Filename: pool/dvc/muti-php7.4-crack_7.4.33-5_aarch64.deb
-Size: 8312300
-MD5sum: 6f56d21d0583c889733704b3e2967141
-SHA1: bf39e65741917d9ce223563ddb74630a3210a92e
-SHA256: 5cc065490c6d0c4f70b96a4aaf0832cba6ffbc31a748e5261a80b4b156424b9e
+Size: 8311988
+MD5sum: e9584579d3506540555d14bfddf65861
+SHA1: 3737ec15d5cf14ca69f076cfb2693f8a3ac5567d
+SHA256: 69fb13b2611815f9829ac19526b48c2bcb535befa408f0cc017b7b4fdee60963
 Homepage: https://php.net
 Description: Server-side, HTML-embedded scripting language + PHP_DECRYPT : PHP CRACK
 

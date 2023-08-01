@@ -1,0 +1,14 @@
+Package: php7-zts-apache
+Version: 7.4.33-4
+Architecture: aarch64
+Maintainer: @Dichvucoder
+Installed-Size: 12916
+Depends: apache2, php7-zts (= 7.4.33-4)
+Filename: pool/dvc/php7-zts-apache_7.4.33-4_aarch64.deb
+Size: 2308700
+MD5sum: fa1b8423ba46da3b78329bcbfa268974
+SHA1: 2fc2ae4a4dbc91367e97d3951595113fa3a1320b
+SHA256: 2e951d8736f08aa1ef739057c77c4c76028e11720fb7a085b1f2f543984ac861
+Homepage: https://php.net
+Description: Apache 2.0 Handler module for PHP
+

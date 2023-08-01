@@ -1,0 +1,15 @@
+Package: php7-zts-pgsql
+Version: 7.4.33-4
+Architecture: arm
+Maintainer: @Dichvucoder
+Installed-Size: 140
+Depends: apr-util, postgresql, php7-zts (= 7.4.33-4)
+Conflicts: php-pgsql
+Filename: pool/dvc/php7-zts-pgsql_7.4.33-4_arm.deb
+Size: 41368
+MD5sum: fe469759adf66c7fb820dda266ed76e7
+SHA1: bd1be9503e99d2e9239145d85449fc9a9924eec8
+SHA256: 555bdb2e10091211a14db8519813bfaa5bb63280f3c3e34f40006a24209e54a0
+Homepage: https://php.net
+Description: PostgreSQL modules for PHP
+

@@ -1,0 +1,14 @@
+Package: php8-crack-ldap
+Version: 8.2.5-2
+Architecture: aarch64
+Maintainer: @Dichvucoder
+Installed-Size: 112
+Depends: openldap, php8-crack (= 8.2.5-2)
+Filename: pool/dvc/php8-crack-ldap_8.2.5-2_aarch64.deb
+Size: 24132
+MD5sum: bfdeced5597e2b1f4a95e98ed3cc9ce6
+SHA1: 2d185947daa9896dee6acb0ed1093c1e15fec2c6
+SHA256: d8044ed5191d6cd36361ad581dfa4bf0682036a26c52d7d171097766fd886f2c
+Homepage: https://php.net
+Description: LDAP module for PHP
+

@@ -1,0 +1,15 @@
+Package: php7-fpm
+Version: 7.4.33-8
+Architecture: i686
+Maintainer: @Dichvucoder
+Installed-Size: 12292
+Depends: php7 (= 7.4.33-8)
+Conflicts: php-fpm
+Filename: pool/dvc/php7-fpm_7.4.33-8_i686.deb
+Size: 2417940
+MD5sum: fc10bf5cbd557ad8a707d7284665150f
+SHA1: 264823705a4b18d8f9e7dea5f72f5ff520b8f7ad
+SHA256: 2525eaa8b4f2bb7cdfa4e878384d8f01789b0d4e9a706173e2cfe35cc5ddbdcd
+Homepage: https://php.net
+Description: FastCGI Process Manager for PHP
+

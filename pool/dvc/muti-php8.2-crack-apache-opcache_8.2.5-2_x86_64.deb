@@ -5,10 +5,10 @@ Maintainer: @Dichvucoder
 Installed-Size: 24
 Depends: php-apache, muti-php8.2-crack (= 8.2.5-2)
 Filename: pool/dvc/muti-php8.2-crack-apache-opcache_8.2.5-2_x86_64.deb
-Size: 812
-MD5sum: f49a5ceda7c0bcae400f0b27bd1c87e2
-SHA1: 97907f7a862e25f816551a4a48aae4b39628263a
-SHA256: 91d652a725721a070058aa59f97cebb7119324a34e9e1b9cc75e1125c8d727d6
+Size: 808
+MD5sum: debf5639a43310fddb06ba811cb2effb
+SHA1: e95a6e95e619b8b8205f66dfeb95f119f888e900
+SHA256: 006fcf8d9498a63974574ad55bd5b48e5e68f31beb82c7b56e60867ad9d7469d
 Homepage: https://php.net
 Description: OPcache module for PHP/Apache
 

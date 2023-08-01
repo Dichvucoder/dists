@@ -1,0 +1,15 @@
+Package: php7-crack-fpm
+Version: 7.4.33-7
+Architecture: x86_64
+Maintainer: @Dichvucoder
+Installed-Size: 13348
+Depends: php7-crack (= 7.4.33-7)
+Conflicts: php-fpm
+Filename: pool/dvc/php7-crack-fpm_7.4.33-7_x86_64.deb
+Size: 2502548
+MD5sum: 8000f47b03067743768848991474feb1
+SHA1: d8ff5eb9e8b2d7b9c1875ce90c93b8005b3a43a1
+SHA256: d76b1ca6126165ed6023aecda322f7fa0d0fdceab669ad3ef4edc40bdae10763
+Homepage: https://php.net
+Description: FastCGI Process Manager for PHP
+

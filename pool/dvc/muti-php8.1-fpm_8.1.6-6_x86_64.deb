@@ -5,10 +5,10 @@ Maintainer: @Dichvucoder
 Installed-Size: 14940
 Depends: muti-php8.1 (= 8.1.6-6)
 Filename: pool/dvc/muti-php8.1-fpm_8.1.6-6_x86_64.deb
-Size: 2700580
-MD5sum: 2fe9672ab562a23da56ea370f9d7ace7
-SHA1: d101e04e3933ff0eac25fcf3d23907870496bcc9
-SHA256: ce6fe9d1eb9da36f75e0246e6f8d1b8332e8c1414227529eaf97ae2366fac96f
+Size: 2698800
+MD5sum: 040acd6e01792ad3cea4f54d390af467
+SHA1: f394a2565b390a9d037a374796092af829f222b6
+SHA256: 989bd1cd8903717a4b7480f93d9ce8760d2e3e5799927027e7ae51de6c8092a3
 Homepage: https://php.net
 Description: FastCGI Process Manager for PHP
 

@@ -5,10 +5,10 @@ Maintainer: @Dichvucoder
 Installed-Size: 24
 Depends: libsodium, muti-php8.1 (= 8.1.6-6)
 Filename: pool/dvc/muti-php8.1-sodium_8.1.6-6_i686.deb
-Size: 788
-MD5sum: b16c24d0b36c8224f6a676fb8d17a3ff
-SHA1: b58475f7d0683451c38d6bebc30f12908deb7c24
-SHA256: c38af4213db8c7c110fafc8b7a985e227173089778d29591bae5f5d06fe92421
+Size: 796
+MD5sum: c51612097df1771d53138492fcf01dd2
+SHA1: 201d7d82af84ed21462bb36b1365f3dca6f650c3
+SHA256: 00e24da9db4d61ecfbc7e33032f258b675036c539215329e59922bd83702899c
 Homepage: https://php.net
 Description: Sodium module for PHP
 

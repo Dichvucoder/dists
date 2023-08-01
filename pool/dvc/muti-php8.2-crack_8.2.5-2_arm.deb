@@ -5,10 +5,10 @@ Maintainer: @Dichvucoder
 Installed-Size: 48172
 Depends: libandroid-glob, libandroid-support, libbz2, libc++, libcurl, libffi, libgd, libgmp, libiconv, libicu, libresolv-wrapper, libsqlite, libxml2, libxslt, libzip, oniguruma, openssl, pcre2, readline, tidy, zlib
 Filename: pool/dvc/muti-php8.2-crack_8.2.5-2_arm.deb
-Size: 8715980
-MD5sum: 2189d8680ce797f0a64b110abbd6dfef
-SHA1: 9a909e189e4656ec12535a9ddc72ef74d7737a53
-SHA256: 11acdb2a752b60afc7e7eccce4392436b3200d2fc821069e4c3993ed87e3ee7e
+Size: 8711552
+MD5sum: ecfd010d34fe7d110090791ddc977341
+SHA1: 98af455380f1229c0ac1a41d44b6fdfb99395886
+SHA256: ebbaa710278a77f79da15519e389646b949dcd38946bdae6b1dddf5d92b20837
 Homepage: https://php.net
 Description: Server-side, HTML-embedded scripting language
 

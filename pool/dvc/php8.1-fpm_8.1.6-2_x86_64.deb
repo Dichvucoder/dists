@@ -1,0 +1,14 @@
+Package: php8.1-fpm
+Version: 8.1.6-2
+Architecture: x86_64
+Maintainer: @Dichvucoder
+Installed-Size: 14996
+Depends: php8.1 (= 8.1.6-2)
+Filename: pool/dvc/php8.1-fpm_8.1.6-2_x86_64.deb
+Size: 2711572
+MD5sum: 3e514986a5c69ad5b350a855ed8f843e
+SHA1: 90dd1a958beb07a9c771515e107f98b412f4ff30
+SHA256: 91c2159b721a64d613b82f16dd9df1b1be67eadd15bb5756fb9a29feef53ed58
+Homepage: https://php.net
+Description: FastCGI Process Manager for PHP
+

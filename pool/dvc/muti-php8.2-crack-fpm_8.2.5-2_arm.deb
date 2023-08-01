@@ -7,10 +7,10 @@ Depends: muti-php8.2-crack (= 8.2.5-2)
 Breaks: php (<< 8.1.12)
 Replaces: php (<< 8.1.12)
 Filename: pool/dvc/muti-php8.2-crack-fpm_8.2.5-2_arm.deb
-Size: 2438324
-MD5sum: e473921173ec18ab96f70bcdd8af2b13
-SHA1: 1938c8ae0effe9d7047767af49d7fbb65fcde68e
-SHA256: 46cdaa216cdfb096f2e0c6bd448fcb1fb2ccf0c272fa9270bad6b7d5e8b7a380
+Size: 2436736
+MD5sum: 339fd782720a249eca7d251853962ff8
+SHA1: b7331b82507d321937fc092f21e9ec89a9deb79f
+SHA256: 0a83405b2b0506c099afe51c66b481e3eb3432ed90662ee5cb4f06ca48b2333f
 Homepage: https://php.net
 Description: FastCGI Process Manager for PHP
 

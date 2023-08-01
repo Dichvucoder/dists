@@ -5,10 +5,10 @@ Maintainer: @Dichvucoder
 Installed-Size: 13244
 Depends: apache2, muti-php7.4-crack (= 7.4.33-5)
 Filename: pool/dvc/muti-php7.4-crack-apache_7.4.33-5_x86_64.deb
-Size: 2446980
-MD5sum: 8d2d79130e525ce6a5b5c6ccc1d42b54
-SHA1: 8cf49b064bdc95470a280bbdf9ed06a466c74038
-SHA256: 991e71eeb886db30d2fd588288649bb7381600621035c65f47cb92f4dcf8db2a
+Size: 2449664
+MD5sum: ab0da9a1467be90e050dd56620a32400
+SHA1: 5479e6d01bf5c6b67805dd84c099cd3855208986
+SHA256: 0741860ae70a13f96ba651265213a2eef9e714b69931a0fbafed737488232240
 Homepage: https://php.net
 Description: Apache 2.0 Handler module for PHP
 

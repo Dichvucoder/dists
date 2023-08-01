@@ -1,0 +1,15 @@
+Package: php7-pgsql
+Version: 7.4.33-8
+Architecture: aarch64
+Maintainer: @Dichvucoder
+Installed-Size: 176
+Depends: apr-util, postgresql, php7 (= 7.4.33-8)
+Conflicts: php-pgsql
+Filename: pool/dvc/php7-pgsql_7.4.33-8_aarch64.deb
+Size: 42212
+MD5sum: a3f0cc1a6189996c1566df35fb9a5165
+SHA1: 2f685798a576f0114e1b0be431a4a251aa25c35b
+SHA256: caf7748f029069f366127a395b4a5fd6eeb320992c710da76a122bf64948aaa6
+Homepage: https://php.net
+Description: PostgreSQL modules for PHP
+

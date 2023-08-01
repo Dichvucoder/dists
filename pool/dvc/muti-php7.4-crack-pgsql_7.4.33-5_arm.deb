@@ -6,10 +6,10 @@ Installed-Size: 24
 Depends: apr-util, postgresql, muti-php7.4-crack (= 7.4.33-5)
 Conflicts: php-pgsql
 Filename: pool/dvc/muti-php7.4-crack-pgsql_7.4.33-5_arm.deb
-Size: 824
-MD5sum: 76fa09a92aabe6151d0c89b055584a1b
-SHA1: c2c729d7672d3ffb5ad5a049428cf6957ad0429e
-SHA256: c4edde3937681d18f9bd8c2f5f1bf9fb15f8e724c95e08f749e5a37e5ae27ee7
+Size: 820
+MD5sum: b6f26965f784bf72382ead7d73cbbed0
+SHA1: 820a2b93aea831d6055fbe1b74fc672b825b3035
+SHA256: c20ae8b5a6157162a5562f81c961a3a4371d65c5ee478d09eff909189845fe2d
 Homepage: https://php.net
 Description: PostgreSQL modules for PHP
 

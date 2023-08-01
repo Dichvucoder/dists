@@ -1,0 +1,14 @@
+Package: php7-crack-apache
+Version: 7.4.33-7
+Architecture: arm
+Maintainer: @Dichvucoder
+Installed-Size: 10740
+Depends: apache2, php7-crack (= 7.4.33-7)
+Filename: pool/dvc/php7-crack-apache_7.4.33-7_arm.deb
+Size: 2133088
+MD5sum: 984bcd133c2a0cfdb6a963f14a0f2085
+SHA1: a152c6e7a7bf8e2828e02a42db0cca0f39b9f201
+SHA256: 20000437857f9f2a0045fe93b384cc86a7d0d7e96a2f8e90695c98da2fed7980
+Homepage: https://php.net
+Description: Apache 2.0 Handler module for PHP
+

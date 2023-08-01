@@ -1,0 +1,15 @@
+Package: php7-zts-fpm
+Version: 7.4.33-4
+Architecture: aarch64
+Maintainer: @Dichvucoder
+Installed-Size: 13024
+Depends: php7-zts (= 7.4.33-4)
+Conflicts: php-fpm
+Filename: pool/dvc/php7-zts-fpm_7.4.33-4_aarch64.deb
+Size: 2365736
+MD5sum: 0e780c93d786491da713a8a9490ec02d
+SHA1: 96e8f693b1bdbd26130d8eaaef03be0e1d8028e5
+SHA256: 9678f5414e0ec289ae11666976bbd4ae19f4af9decf11f47a23ee7ef0d7124a0
+Homepage: https://php.net
+Description: FastCGI Process Manager for PHP
+
