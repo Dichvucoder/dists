@@ -1,3 +1,16 @@
+Package: dvc-tools
+Version: 9-1
+Architecture: i686
+Maintainer: @Dgbaodev
+Installed-Size: 10776
+Filename: pool/dvc/dvc-tools_9-1_i686.deb
+Size: 6414980
+MD5sum: f52eb2d9055a021ef7e5cbe51c75e9c4
+SHA1: ea38cd2d2d369ce52c8ffe3af4f8cc25b628a93e
+SHA256: 6f67551816fae620fc5fba3da249bce6bf9c03cac23f427380ca24dde1f2c0e5
+Homepage: https://dgbaodev.com
+Description: Dichvucoder Tools FULL Version 9 By DGBAO DEV
+
 Package: huy-mtool
 Version: 3.0-1
 Architecture: i686
