@@ -1,0 +1,14 @@
+Package: muti-php8.2-apache
+Version: 8.2.5-10
+Architecture: i686
+Maintainer: @Dichvucoder
+Installed-Size: 14056
+Depends: apache2, apr-util, muti-php8.2 (= 8.2.5-10)
+Filename: pool/dvc/muti-php8.2-apache_8.2.5-10_i686.deb
+Size: 2658740
+MD5sum: 79d9a0a7a45ecbcb4f0e75c9f73038d9
+SHA1: 898e0491407aee11badc1e94f20de9dec7b190de
+SHA256: 5bed7367a93143010cb1ec546010083eab3089974f9437e3c71095ea390e01a1
+Homepage: https://php.net
+Description: Apache 2.0 Handler module for PHP
+

@@ -1,0 +1,14 @@
+Package: muti-php8.1-fpm
+Version: 8.1.6-9
+Architecture: arm
+Maintainer: @Dichvucoder
+Installed-Size: 12196
+Depends: muti-php8.1 (= 8.1.6-9)
+Filename: pool/dvc/muti-php8.1-fpm_8.1.6-9_arm.deb
+Size: 2345136
+MD5sum: 2f15755cb6c2927072cdd821c2a52c60
+SHA1: 82cd2f7a25b1f947f1941ace7eb7d91a84093aa9
+SHA256: 19707178ccae2f4102653d2511faa0425f2bc6a33a134aa53e4b75c1fd84b70b
+Homepage: https://php.net
+Description: FastCGI Process Manager for PHP
+
