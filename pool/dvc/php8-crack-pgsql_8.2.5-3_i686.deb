@@ -1,0 +1,14 @@
+Package: php8-crack-pgsql
+Version: 8.2.5-3
+Architecture: i686
+Maintainer: @Dichvucoder
+Installed-Size: 168
+Depends: postgresql, php8-crack (= 8.2.5-3)
+Filename: pool/dvc/php8-crack-pgsql_8.2.5-3_i686.deb
+Size: 45800
+MD5sum: 44755ceca2329bcff4d02573f94a578c
+SHA1: 1cff089c4a06a82fb43e786431619c10e27e3e4f
+SHA256: 57bd1382136b7dd4049a240f60aceda7ec4da644a4aeaab297b21006f135d069
+Homepage: https://php.net
+Description: PostgreSQL modules for PHP
+

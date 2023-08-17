@@ -1,0 +1,16 @@
+Package: php8-crack-fpm
+Version: 8.2.5-3
+Architecture: i686
+Maintainer: @Dichvucoder
+Installed-Size: 14208
+Depends: php8-crack (= 8.2.5-3)
+Breaks: php (<< 8.1.12)
+Replaces: php (<< 8.1.12)
+Filename: pool/dvc/php8-crack-fpm_8.2.5-3_i686.deb
+Size: 2715236
+MD5sum: 64b9baf6b3b579be27826c1124c6249b
+SHA1: e2d2eb8e7680749d52c12686098c8b13f4193534
+SHA256: e268046cac0a69eb62399e7a039a665c3662df3a5ae408b1b566ad0825dd760d
+Homepage: https://php.net
+Description: FastCGI Process Manager for PHP
+

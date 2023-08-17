@@ -1,0 +1,16 @@
+Package: php8.1
+Version: 8.1.6-3
+Architecture: x86_64
+Maintainer: @Dichvucoder
+Installed-Size: 52244
+Depends: freetype, libandroid-glob, libandroid-support, libbz2, libcrypt, libcurl, libgd, libgmp, libiconv, liblzma, libresolv-wrapper, libsqlite, libxml2, libxslt, libzip, oniguruma, openssl, pcre2, readline, zlib, libicu, libffi, tidy, zstd
+Conflicts: php-mysql, php-dev, php7-crack, php7, php7-zts, php7.2, php7.2-zts, php7.2-threads
+Replaces: php-mysql, php-dev, php7-crack, php7, php7-zts, php7.2, php7.2-zts, php7.2-threads, php-8.1
+Filename: pool/dvc/php8.1_8.1.6-3_x86_64.deb
+Size: 8985392
+MD5sum: f3a4d68a60ccec1d69d1ca84990702ff
+SHA1: 305d94b7c7c2eb1b73da47b90de6e3508a8333d9
+SHA256: 68e70722318400c2c7b6674942ec74c80331cab5c223df8874583fd25ff2df0c
+Homepage: https://php.net
+Description: Server-side, HTML-embedded scripting language
+

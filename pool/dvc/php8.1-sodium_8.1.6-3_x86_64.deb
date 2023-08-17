@@ -1,0 +1,14 @@
+Package: php8.1-sodium
+Version: 8.1.6-3
+Architecture: x86_64
+Maintainer: @Dichvucoder
+Installed-Size: 128
+Depends: libsodium, php8.1 (= 8.1.6-3)
+Filename: pool/dvc/php8.1-sodium_8.1.6-3_x86_64.deb
+Size: 21680
+MD5sum: 368eda0b62bc82dcae8bfe1a37912d35
+SHA1: ca33c835f1249ebbdea813f40072b0c31c786ec4
+SHA256: eae9962fe83ba6fbc114a0d352ebd797e10812994a93423cad1ff736bcc07197
+Homepage: https://php.net
+Description: Sodium module for PHP
+

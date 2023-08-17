@@ -1,0 +1,14 @@
+Package: php8.1-ldap
+Version: 8.1.6-3
+Architecture: arm
+Maintainer: @Dichvucoder
+Installed-Size: 88
+Depends: openldap, php8.1 (= 8.1.6-3)
+Filename: pool/dvc/php8.1-ldap_8.1.6-3_arm.deb
+Size: 21940
+MD5sum: c968a4352ceac7d91fa50567b8a40034
+SHA1: 11249258da95454f6a8e74461dde43e3861a875c
+SHA256: fcd21dc9a51ea1029d5147b89eaf0fe7a03705f1a438943282107616e2810a17
+Homepage: https://php.net
+Description: LDAP module for PHP
+

@@ -1,0 +1,14 @@
+Package: php8.1-apache
+Version: 8.1.6-3
+Architecture: i686
+Maintainer: @Dichvucoder
+Installed-Size: 13720
+Depends: apache2, php8.1 (= 8.1.6-3)
+Filename: pool/dvc/php8.1-apache_8.1.6-3_i686.deb
+Size: 2568520
+MD5sum: 46825173d5f192bbbbf72c3dc27935b1
+SHA1: 1bc7577dcd1efdafcfd6fac88c3e58ff402461c2
+SHA256: 9fa0352b2942877e78b1ee815d6e3a5120e60fbf5374e373f165aec04d3d10f0
+Homepage: https://php.net
+Description: Apache 2.0 Handler module for PHP
+

@@ -1,0 +1,14 @@
+Package: php8-crack-apache-sodium
+Version: 8.2.5-3
+Architecture: i686
+Maintainer: @Dichvucoder
+Installed-Size: 124
+Depends: libsodium, php-apache, php8-crack (= 8.2.5-3)
+Filename: pool/dvc/php8-crack-apache-sodium_8.2.5-3_i686.deb
+Size: 20992
+MD5sum: 1a7d80bf343a06ca781420f8883d67c3
+SHA1: a3f8c3e8ed1ed34654b1919572adfdb08ac6f84c
+SHA256: 38126abc9a0b276eeb0eb2986620508d85a572949db6593c514d2e6fedf7ecd4
+Homepage: https://php.net
+Description: Sodium module for PHP/Apache
+

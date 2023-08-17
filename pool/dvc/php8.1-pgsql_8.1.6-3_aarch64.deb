@@ -1,0 +1,14 @@
+Package: php8.1-pgsql
+Version: 8.1.6-3
+Architecture: aarch64
+Maintainer: @Dichvucoder
+Installed-Size: 184
+Depends: apr-util, postgresql, php8.1 (= 8.1.6-3)
+Filename: pool/dvc/php8.1-pgsql_8.1.6-3_aarch64.deb
+Size: 43696
+MD5sum: 68fdbe962c5d74bc5d0c5fe500e34207
+SHA1: 6de1fc3324dca1396bb14faab157279af16bd265
+SHA256: 01b2223240a83d60bcc5630dabd0f9f896b0c77cb26c841a0f300c51c02834d3
+Homepage: https://php.net
+Description: PostgreSQL modules for PHP
+
