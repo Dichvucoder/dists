@@ -1,0 +1,15 @@
+Package: php7-fpm
+Version: 7.4.33-11
+Architecture: arm
+Maintainer: @Dichvucoder
+Installed-Size: 10836
+Depends: php7 (= 7.4.33-11)
+Conflicts: php-fpm
+Filename: pool/dvc/php7-fpm_7.4.33-11_arm.deb
+Size: 2174968
+MD5sum: 939c6af29512d0d55677e139de93fffd
+SHA1: 76aaae99c3d247d7af801616adbef3a2b8cba835
+SHA256: a6b08a5a70e332ba4f0a39fdb4cb7ff4ed66016c19d43900a0834ea9dfa742ff
+Homepage: https://php.net
+Description: FastCGI Process Manager for PHP
+

@@ -1,0 +1,14 @@
+Package: php7-apache
+Version: 7.4.33-11
+Architecture: i686
+Maintainer: @Dichvucoder
+Installed-Size: 12152
+Depends: apache2, php7 (= 7.4.33-11)
+Filename: pool/dvc/php7-apache_7.4.33-11_i686.deb
+Size: 2369988
+MD5sum: 66cc3fc37af4de4923c82391f61b6ab9
+SHA1: 84fbb4f005e68fcde4824df8488b9f09ee3fd07f
+SHA256: 4bedcf062a9d1ae28c5cdaec3bd2281cc6b98ee67a82502a998473e0324dedbb
+Homepage: https://php.net
+Description: Apache 2.0 Handler module for PHP
+
