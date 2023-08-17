@@ -1,0 +1,14 @@
+Package: muti-php7.4-apache
+Version: 7.4.33-8
+Architecture: aarch64
+Maintainer: @Dichvucoder
+Installed-Size: 12784
+Depends: apache2, muti-php7.4 (= 7.4.33-8)
+Filename: pool/dvc/muti-php7.4-apache_7.4.33-8_aarch64.deb
+Size: 2265056
+MD5sum: 8d5d22714f8706944516012751d3d487
+SHA1: d9e207f218063c462588c9e31727897f259d7b9b
+SHA256: 2382cb2b6299b7faf7d292a2371c890c334569c50234f3106d86a1c964b9b2d1
+Homepage: https://php.net
+Description: Apache 2.0 Handler module for PHP
+
