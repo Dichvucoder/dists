@@ -151,6 +151,20 @@ SHA256: 5c6966f1b18949a6b76c9df68ea39ef2ff3413e79dc4011d632c9fb40ee8699e
 Homepage: https://dichvucoder.vn
 Description: An extension supports running php file encoded/obfuscate by dichvucoder.vn
 
+Package: muti-php7.4-fileselect
+Version: 1.0-1
+Architecture: i686
+Maintainer: @Dgbaodev
+Installed-Size: 64
+Depends: libandroid-execinfo, muti-php7.4, ncurses
+Filename: pool/dvc/muti-php7.4-fileselect_1.0-1_i686.deb
+Size: 5544
+MD5sum: 14f902dd32234215bd3080e2768199db
+SHA1: 5e35393b3e5706ae13ac4b988eaa9b6a181f46fd
+SHA256: d7ee969d2dd269ed07d8bc47a28b4c86b39b3250c5618ee9f7a04fc94849b7aa
+Homepage: https://dgbaodev.com
+Description: Returns the realpath of a selected file
+
 Package: muti-php7.4-fpm
 Version: 7.4.33-8
 Architecture: i686
@@ -504,6 +518,20 @@ SHA1: 4539a66dbe2a33e9289685e6b311a432a25d4652
 SHA256: 35381f4bd8f2e2b8d48039e8f669fc8aa870737de44a09ce836409f3a7d7bec9
 Homepage: https://dichvucoder.vn
 Description: An extension supports running php file encoded/obfuscate by dichvucoder.vn
+
+Package: muti-php8.2-fileselect
+Version: 1.0-1
+Architecture: i686
+Maintainer: @Dgbaodev
+Installed-Size: 64
+Depends: libandroid-execinfo, muti-php8.2, ncurses
+Filename: pool/dvc/muti-php8.2-fileselect_1.0-1_i686.deb
+Size: 5560
+MD5sum: e067ac9e2e82edc6ab769dbb4e570bd9
+SHA1: bb657b5464cb1b2e856d743ec611fc96b28f943d
+SHA256: ffb879504b6ac8c509a2cb4df8b2c3effb815088216ea619ccf03abc50c1988a
+Homepage: https://dgbaodev.com
+Description: Returns the realpath of a selected file
 
 Package: muti-php8.2-fpm
 Version: 8.2.5-10
