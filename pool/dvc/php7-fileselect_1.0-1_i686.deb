@@ -1,0 +1,14 @@
+Package: php7-fileselect
+Version: 1.0-1
+Architecture: i686
+Maintainer: @Dgbaodev
+Installed-Size: 56
+Depends: libandroid-execinfo, php7, ncurses
+Filename: pool/dvc/php7-fileselect_1.0-1_i686.deb
+Size: 5024
+MD5sum: 3a4db3ef02702f02dcee2aefda323a41
+SHA1: 095878d1886096031729e535615fdb524ca3576a
+SHA256: c60d46ef73a3a85169bd5f33b4ded593810d61299ebece04d51bc83f4e3a412a
+Homepage: https://dgbaodev.com
+Description: Returns the realpath of a selected file
+
