@@ -748,16 +748,16 @@ Homepage: https://dichvucoder.com
 Description: An extension supports running php file encoded/obfuscate by dichvucoder.com
 
 Package: php-fileselect
-Version: 1.0-1
+Version: 1.0-2
 Architecture: i686
 Maintainer: @Dgbaodev
-Installed-Size: 56
+Installed-Size: 60
 Depends: libandroid-execinfo, php, ncurses
-Filename: pool/dvc/php-fileselect_1.0-1_i686.deb
-Size: 5024
-MD5sum: 3814d1ad7b97d9a11268719c5d4f69d1
-SHA1: ad8cc43b3d1a3f00f77a79375daee0dfe8a6764e
-SHA256: fe09d3e55a89544d6b1469ed784ca6df973c7ff8adf32f912fc253bd14b68665
+Filename: pool/dvc/php-fileselect_1.0-2_i686.deb
+Size: 6288
+MD5sum: 75cccb49fc4a525e03c1e92edb1189ae
+SHA1: 95359e8e545bbda9baba41a67745b26f6dd12e42
+SHA256: 9025249813520a21e9c0e7304882670927e1131cda0f6bdc3f5172e556ebfead
 Homepage: https://dgbaodev.com
 Description: Returns the realpath of a selected file
 
@@ -864,16 +864,16 @@ Homepage: https://dichvucoder.com
 Description: An extension supports running php file encoded/obfuscate by dichvucoder.com
 
 Package: php7-fileselect
-Version: 1.0-1
+Version: 1.0-2
 Architecture: i686
 Maintainer: @Dgbaodev
-Installed-Size: 56
+Installed-Size: 60
 Depends: libandroid-execinfo, php7, ncurses
-Filename: pool/dvc/php7-fileselect_1.0-1_i686.deb
-Size: 5024
-MD5sum: 3a4db3ef02702f02dcee2aefda323a41
-SHA1: 095878d1886096031729e535615fdb524ca3576a
-SHA256: c60d46ef73a3a85169bd5f33b4ded593810d61299ebece04d51bc83f4e3a412a
+Filename: pool/dvc/php7-fileselect_1.0-2_i686.deb
+Size: 6268
+MD5sum: de983394c1265e6d2f9db1b7cce47a23
+SHA1: 73e6af9192842a4922f9d7be4144818ce6b992c5
+SHA256: 76c2278b9f61f69fbb8d52aa806a961bb9f29b42f92066649eb53a25091cc72e
 Homepage: https://dgbaodev.com
 Description: Returns the realpath of a selected file
 

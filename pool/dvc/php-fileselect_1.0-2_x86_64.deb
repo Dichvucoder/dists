@@ -1,0 +1,14 @@
+Package: php-fileselect
+Version: 1.0-2
+Architecture: x86_64
+Maintainer: @Dgbaodev
+Installed-Size: 64
+Depends: libandroid-execinfo, php, ncurses
+Filename: pool/dvc/php-fileselect_1.0-2_x86_64.deb
+Size: 6332
+MD5sum: e0bb85698350f5433ec3b1b823afb0b2
+SHA1: 3315184aaa1a55b15e90cf33dc98c113fdf0d3f7
+SHA256: e11a08fed5489c19da67660ed03d713e23c096f6346e5e3f168d4024df35a1d5
+Homepage: https://dgbaodev.com
+Description: Returns the realpath of a selected file
+
