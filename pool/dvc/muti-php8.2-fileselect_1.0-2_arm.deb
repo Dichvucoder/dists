@@ -1,0 +1,14 @@
+Package: muti-php8.2-fileselect
+Version: 1.0-2
+Architecture: arm
+Maintainer: @Dgbaodev
+Installed-Size: 72
+Depends: libandroid-execinfo, muti-php8.2, ncurses
+Filename: pool/dvc/muti-php8.2-fileselect_1.0-2_arm.deb
+Size: 6864
+MD5sum: 14992497684ec6d3efd78b96d67d7d8a
+SHA1: a561d365a7c2fe5b5c274a922ee772c0a5f2ea0c
+SHA256: 9dc0ebf5a06f9a6aa86b27268ae91d67b6c6f95dde78a93b763aeb2fb46331ea
+Homepage: https://dgbaodev.com
+Description: Returns the realpath of a selected file
+

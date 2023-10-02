@@ -1,0 +1,14 @@
+Package: muti-php7.4-fileselect
+Version: 1.0-2
+Architecture: i686
+Maintainer: @Dgbaodev
+Installed-Size: 68
+Depends: libandroid-execinfo, muti-php7.4, ncurses
+Filename: pool/dvc/muti-php7.4-fileselect_1.0-2_i686.deb
+Size: 6796
+MD5sum: d52435a283e039639a84bc8945c78e3a
+SHA1: 5f3443ce1846ebae83034ac1675becf51f5f91cc
+SHA256: 46ff7c0d6ada6679b114a378c26cbd5241ec481ef98901daf7a6c30dceb987af
+Homepage: https://dgbaodev.com
+Description: Returns the realpath of a selected file
+
