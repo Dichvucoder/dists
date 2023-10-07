@@ -80,60 +80,60 @@ Homepage: https://php.net
 Description: Apache 2.0 Handler module for PHP
 
 Package: muti-php7.4-crack-apache
-Version: 7.4.33-7
+Version: 7.4.33-8
 Architecture: aarch64
 Maintainer: @Dichvucoder
 Installed-Size: 12796
-Depends: apache2, muti-php7.4-crack (= 7.4.33-7)
-Filename: pool/dvc/muti-php7.4-crack-apache_7.4.33-7_aarch64.deb
-Size: 2270720
-MD5sum: 2b74280688f95f312a1ef060137da3ae
-SHA1: 61a91669f07cad8f2c25d0e0f6f2552f42609a52
-SHA256: 151e3e6ee47559bd7cf4cd99c88f06edcddc37b33a02158df441885a92f029cf
+Depends: apache2, muti-php7.4-crack (= 7.4.33-8)
+Filename: pool/dvc/muti-php7.4-crack-apache_7.4.33-8_aarch64.deb
+Size: 2268464
+MD5sum: cb72dab5dac974432b9ee28d081337f7
+SHA1: 3667b2604645cb5803d237dcf15e5df993e419c9
+SHA256: 3185613819ce868a54ab0d0e820c8e2fba46123e140e9e6501762ebb6146aca9
 Homepage: https://php.net
 Description: Apache 2.0 Handler module for PHP
 
 Package: muti-php7.4-crack-fpm
-Version: 7.4.33-7
+Version: 7.4.33-8
 Architecture: aarch64
 Maintainer: @Dichvucoder
 Installed-Size: 12852
-Depends: muti-php7.4-crack (= 7.4.33-7)
+Depends: muti-php7.4-crack (= 7.4.33-8)
 Conflicts: php-fpm
-Filename: pool/dvc/muti-php7.4-crack-fpm_7.4.33-7_aarch64.deb
-Size: 2310808
-MD5sum: c5c703b11fc40037870be381af9c23ee
-SHA1: 13ca7adf90413767544ba2f629c931e238c0afae
-SHA256: 868cae68aa7f259731e5aa836745412b47940a68634f8fe176831715a00f5589
+Filename: pool/dvc/muti-php7.4-crack-fpm_7.4.33-8_aarch64.deb
+Size: 2311512
+MD5sum: 45f18819832b8c632d5316d7a1395a0f
+SHA1: 138932e33d8f3738e05d233697d67e1f699f5e3a
+SHA256: cb32b7bfead995e2970fcfbd1012626edf446b6ee4e87ec6f2ca3215134ae2ab
 Homepage: https://php.net
 Description: FastCGI Process Manager for PHP
 
 Package: muti-php7.4-crack-pgsql
-Version: 7.4.33-7
+Version: 7.4.33-8
 Architecture: aarch64
 Maintainer: @Dichvucoder
 Installed-Size: 24
-Depends: apr-util, postgresql, muti-php7.4-crack (= 7.4.33-7)
+Depends: apr-util, postgresql, muti-php7.4-crack (= 7.4.33-8)
 Conflicts: php-pgsql
-Filename: pool/dvc/muti-php7.4-crack-pgsql_7.4.33-7_aarch64.deb
+Filename: pool/dvc/muti-php7.4-crack-pgsql_7.4.33-8_aarch64.deb
 Size: 820
-MD5sum: 579afa2c3cefba9e801dc6f8bc48c3b1
-SHA1: 90f2454910ff8619f1361a0779560374651885ed
-SHA256: 9b2d9604463ff9b831dd0d243458cd63770d3a82a9106d06d04e3e19d980217a
+MD5sum: dfc9b09a3f5ff750bf73b914066b56ea
+SHA1: 8fdd9b07edc80a1d25018ffa9c9e540b36d6dd55
+SHA256: 182df10ea433478318eccd92c75e3e7bac9a7e6df66dfcb1fefa2a1f658c3e49
 Homepage: https://php.net
 Description: PostgreSQL modules for PHP
 
 Package: muti-php7.4-crack
-Version: 7.4.33-7
+Version: 7.4.33-8
 Architecture: aarch64
 Maintainer: @Dichvucoder
 Installed-Size: 49136
 Depends: libc++, freetype, libandroid-glob, libandroid-support, libbz2, libcrypt, libcurl, libgd, libgmp, libiconv, liblzma, libsqlite, libxml2, libxslt, libzip, oniguruma, openssl-1.1, pcre2, readline, zlib, libicu, libffi, tidy
-Filename: pool/dvc/muti-php7.4-crack_7.4.33-7_aarch64.deb
-Size: 8311532
-MD5sum: 1f4ffbe58c487ff740a651edf3931fde
-SHA1: 446bfe3f462514ce5469713bb8bcde91a4932498
-SHA256: 39e7579f10ed4f23dcf49dfb281a818f19d041ceedc78008f383ee7029d11848
+Filename: pool/dvc/muti-php7.4-crack_7.4.33-8_aarch64.deb
+Size: 8290520
+MD5sum: 0d5df46c2bd4b8d6a652d4cdf9267447
+SHA1: 678531b0c169a2fd5afe1093c9e257ec06159e8c
+SHA256: 216cc7398980663950e23f1fecac7e4926a6c1f7bc4d2425917be3154b8e2963
 Homepage: https://php.net
 Description: Server-side, HTML-embedded scripting language + PHP_DECRYPT : PHP CRACK
 

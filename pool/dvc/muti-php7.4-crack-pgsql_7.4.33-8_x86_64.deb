@@ -1,0 +1,15 @@
+Package: muti-php7.4-crack-pgsql
+Version: 7.4.33-8
+Architecture: x86_64
+Maintainer: @Dichvucoder
+Installed-Size: 24
+Depends: apr-util, postgresql, muti-php7.4-crack (= 7.4.33-8)
+Conflicts: php-pgsql
+Filename: pool/dvc/muti-php7.4-crack-pgsql_7.4.33-8_x86_64.deb
+Size: 824
+MD5sum: eff5e341a4538b04b319b79e30810b37
+SHA1: 803d41328833cd469c8829f31cf297c72ef8cb66
+SHA256: 3d935feea25ed120aa96c9a71c05612f2984bd3f80514c049a8cbdc064fc67ec
+Homepage: https://php.net
+Description: PostgreSQL modules for PHP
+

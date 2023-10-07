@@ -1,0 +1,14 @@
+Package: muti-php7.4-crack-apache
+Version: 7.4.33-8
+Architecture: arm
+Maintainer: @Dichvucoder
+Installed-Size: 10740
+Depends: apache2, muti-php7.4-crack (= 7.4.33-8)
+Filename: pool/dvc/muti-php7.4-crack-apache_7.4.33-8_arm.deb
+Size: 2131792
+MD5sum: 5228851950782c4c7423cb2e34f85906
+SHA1: 6d06eb41231014c59504c913d303cb9dda1c807e
+SHA256: b86dd833580d3696d81552e76c1ebb50412c70c7a74e92771c3e12b4f930d553
+Homepage: https://php.net
+Description: Apache 2.0 Handler module for PHP
+

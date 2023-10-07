@@ -1,14 +1,14 @@
 Package: muti-php7.4-crack
-Version: 7.4.33-7
-Architecture: x86_64
+Version: 7.4.33-8
+Architecture: aarch64
 Maintainer: @Dichvucoder
-Installed-Size: 49324
+Installed-Size: 49136
 Depends: libc++, freetype, libandroid-glob, libandroid-support, libbz2, libcrypt, libcurl, libgd, libgmp, libiconv, liblzma, libsqlite, libxml2, libxslt, libzip, oniguruma, openssl-1.1, pcre2, readline, zlib, libicu, libffi, tidy
-Filename: pool/dvc/muti-php7.4-crack_7.4.33-7_x86_64.deb
-Size: 8677132
-MD5sum: 4af2a37c4a524f53bd519dea79c49b5b
-SHA1: d0ee45ece2ca59741bb404aa00240c2c9055acdd
-SHA256: 4f9817d01886be656089ce9f66060cded884254063478c0589b679b102573f3b
+Filename: pool/dvc/muti-php7.4-crack_7.4.33-8_aarch64.deb
+Size: 8290520
+MD5sum: 0d5df46c2bd4b8d6a652d4cdf9267447
+SHA1: 678531b0c169a2fd5afe1093c9e257ec06159e8c
+SHA256: 216cc7398980663950e23f1fecac7e4926a6c1f7bc4d2425917be3154b8e2963
 Homepage: https://php.net
 Description: Server-side, HTML-embedded scripting language + PHP_DECRYPT : PHP CRACK
 
