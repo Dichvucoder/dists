@@ -1,0 +1,14 @@
+Package: muti-php8.2-crack
+Version: 8.2.5-7
+Architecture: arm
+Maintainer: @Dichvucoder
+Installed-Size: 48172
+Depends: libandroid-glob, libandroid-support, libbz2, libc++, libcurl, libffi, libgd, libgmp, libiconv, libicu, libresolv-wrapper, libsqlite, libxml2, libxslt, libzip, oniguruma, openssl, pcre2, readline, tidy, zlib
+Filename: pool/dvc/muti-php8.2-crack_8.2.5-7_arm.deb
+Size: 8688128
+MD5sum: b9d6a8b396cc9faa21598a7ce58a9e12
+SHA1: bbff85df9e3e14338adfa43673d443cdc8e5d076
+SHA256: b8c5c2636ff10a939b5f34a391f73058722475d6f9b51000856656cfec197b96
+Homepage: https://php.net
+Description: Server-side, HTML-embedded scripting language
+
