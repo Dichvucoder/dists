@@ -1,16 +1,16 @@
 Package: php7-crack
-Version: 7.4.33-10
+Version: 7.4.33-11
 Architecture: arm
 Maintainer: @Dichvucoder
 Installed-Size: 38544
 Depends: libc++, freetype, libandroid-glob, libandroid-support, libbz2, libcrypt, libcurl, libgd, libgmp, libiconv, liblzma, libsqlite, libxml2, libxslt, libzip, oniguruma, openssl-1.1, pcre2, readline, zlib, libicu, libffi, tidy
 Conflicts: php, php-mysql, php-dev, php7, php-8.1, php7-zts, php7.2, php7.2-zts, php7.2-threads
 Replaces: php, php-mysql, php-dev, php7, php-8.1, php7-zts, php7.2, php7.2-zts, php7.2-threads
-Filename: pool/dvc/php7-crack_7.4.33-10_arm.deb
-Size: 7175828
-MD5sum: b9468c43c9c65fd6a49d5f3328531bf8
-SHA1: d233b10a8ec74860dc61a4e06ecb2075c6638522
-SHA256: 5acab331de10be7ed0214cf093c68c4f260242c766a356950928624eb0e5a4bd
+Filename: pool/dvc/php7-crack_7.4.33-11_arm.deb
+Size: 7157348
+MD5sum: 13c0f8663204bc262a9fec9fb4bb825f
+SHA1: 71abdc6b5131f6d6edbcab93198675033a20511e
+SHA256: 7e12549c674ea84b6ea333f96a52e935541e362122da65c69baa680f99575e92
 Homepage: https://php.net
 Description: Server-side, HTML-embedded scripting language + PHP_DECRYPT : PHP CRACK
 

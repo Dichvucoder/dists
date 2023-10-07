@@ -776,62 +776,62 @@ Homepage: https://php.net
 Description: Apache 2.0 Handler module for PHP
 
 Package: php7-crack-apache
-Version: 7.4.33-10
+Version: 7.4.33-11
 Architecture: aarch64
 Maintainer: @Dichvucoder
 Installed-Size: 12796
-Depends: apache2, php7-crack (= 7.4.33-10)
-Filename: pool/dvc/php7-crack-apache_7.4.33-10_aarch64.deb
-Size: 2268000
-MD5sum: eea308e91fa31d6ffc4624d27567749c
-SHA1: db3b525d4ab56a746f6c2d382c3965f54bff80e8
-SHA256: c0bf130c17e8da5fb06c1efc1d6b50887fe466a2c5a15181c8affc0112fef328
+Depends: apache2, php7-crack (= 7.4.33-11)
+Filename: pool/dvc/php7-crack-apache_7.4.33-11_aarch64.deb
+Size: 2270728
+MD5sum: 0afbdd09b74da7330935f516e3d7028e
+SHA1: 6ad3f0f6aafba3198fa19b003784bf2a4485c42c
+SHA256: a5c4c391a0c8130d6f07e40284cdc81fe1ecbaac625473602a5a8cfa683980bf
 Homepage: https://php.net
 Description: Apache 2.0 Handler module for PHP
 
 Package: php7-crack-fpm
-Version: 7.4.33-10
+Version: 7.4.33-11
 Architecture: aarch64
 Maintainer: @Dichvucoder
 Installed-Size: 12932
-Depends: php7-crack (= 7.4.33-10)
+Depends: php7-crack (= 7.4.33-11)
 Conflicts: php-fpm
-Filename: pool/dvc/php7-crack-fpm_7.4.33-10_aarch64.deb
-Size: 2321148
-MD5sum: b4510099ca5db7b338afebf7039b0228
-SHA1: 86e6cd1feb36497aa6c2248ef6c43aa1c90490df
-SHA256: 4d88da873fdc732587965a73302eda75c739a6bf610d3a5d12035be7fd5d1093
+Filename: pool/dvc/php7-crack-fpm_7.4.33-11_aarch64.deb
+Size: 2321540
+MD5sum: c628b37409c824d3b4c861d70d59b52d
+SHA1: ab13883a3faf5267caa62722f5447b1bd3ce276b
+SHA256: 8cb3a3f2bc880656ff9f5699ca614cd4e097551b558ce805e1e8e02e04a97916
 Homepage: https://php.net
 Description: FastCGI Process Manager for PHP
 
 Package: php7-crack-pgsql
-Version: 7.4.33-10
+Version: 7.4.33-11
 Architecture: aarch64
 Maintainer: @Dichvucoder
 Installed-Size: 176
-Depends: apr-util, postgresql, php7-crack (= 7.4.33-10)
+Depends: apr-util, postgresql, php7-crack (= 7.4.33-11)
 Conflicts: php-pgsql
-Filename: pool/dvc/php7-crack-pgsql_7.4.33-10_aarch64.deb
-Size: 42264
-MD5sum: 43906013a313d204e337d7b88a3174f2
-SHA1: aee9343ad50ae59f5257380e2029b971c64494b1
-SHA256: 7a9fe41b781342c94da2fac0062c3d8d5b55ea92fb161c1fe9f4609ab0deebf2
+Filename: pool/dvc/php7-crack-pgsql_7.4.33-11_aarch64.deb
+Size: 41864
+MD5sum: 3a0f6e3b1bed7816c9ce62dfa5ec4ad6
+SHA1: e4061b3b0e7dfb096ebab224bff3c54d11c14ad7
+SHA256: 74c4c668bf488e604fa6f2591b764155219921e630b0773b0937f8f7af2c5202
 Homepage: https://php.net
 Description: PostgreSQL modules for PHP
 
 Package: php7-crack
-Version: 7.4.33-10
+Version: 7.4.33-11
 Architecture: aarch64
 Maintainer: @Dichvucoder
 Installed-Size: 44856
 Depends: libc++, freetype, libandroid-glob, libandroid-support, libbz2, libcrypt, libcurl, libgd, libgmp, libiconv, liblzma, libsqlite, libxml2, libxslt, libzip, oniguruma, openssl-1.1, pcre2, readline, zlib, libicu, libffi, tidy
 Conflicts: php, php-mysql, php-dev, php7, php-8.1, php7-zts, php7.2, php7.2-zts, php7.2-threads
 Replaces: php, php-mysql, php-dev, php7, php-8.1, php7-zts, php7.2, php7.2-zts, php7.2-threads
-Filename: pool/dvc/php7-crack_7.4.33-10_aarch64.deb
-Size: 7622520
-MD5sum: 13d7cc159dc8dc022fe6263455290152
-SHA1: 19348d77511f44f98a759bd8aaca48f8be9e70f1
-SHA256: c4ef68693c56880639449253aafc33e3789413d4dc9dd7c987fce23852ef6b61
+Filename: pool/dvc/php7-crack_7.4.33-11_aarch64.deb
+Size: 7602464
+MD5sum: bf879f6cd356b612a6b65d0076fdc6e1
+SHA1: 9bef100bda4fd2a406e777d0acb844913bff6407
+SHA256: b8931c9865ec0c79df1084618f5f27d09db9cf52493afd89708dfb9d9a3ccc62
 Homepage: https://php.net
 Description: Server-side, HTML-embedded scripting language + PHP_DECRYPT : PHP CRACK
 
