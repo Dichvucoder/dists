@@ -1,0 +1,14 @@
+Package: php8-crack-apache-pgsql
+Version: 8.2.5-4
+Architecture: arm
+Maintainer: @Dichvucoder
+Installed-Size: 160
+Depends: php-apache, postgresql, php8-crack (= 8.2.5-4)
+Filename: pool/dvc/php8-crack-apache-pgsql_8.2.5-4_arm.deb
+Size: 40932
+MD5sum: 3681023a5ded76c45a46e7e4ac09c09a
+SHA1: 06120de858303ca5771a021be4e88e74a4e2d67a
+SHA256: 70f1d6c2161af7cb2c0225b7f88ace3b76907e8dbb8123664fd8d97515c3f4c5
+Homepage: https://php.net
+Description: PostgreSQL modules for PHP/Apache
+
