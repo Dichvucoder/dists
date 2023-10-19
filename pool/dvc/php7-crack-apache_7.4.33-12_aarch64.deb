@@ -1,0 +1,14 @@
+Package: php7-crack-apache
+Version: 7.4.33-12
+Architecture: aarch64
+Maintainer: @Dichvucoder
+Installed-Size: 12796
+Depends: apache2, php7-crack (= 7.4.33-12)
+Filename: pool/dvc/php7-crack-apache_7.4.33-12_aarch64.deb
+Size: 2268816
+MD5sum: 80c8dfb055b4dd2498abb9174b78efaf
+SHA1: 0f8c4023d29c1cd1979db3f4147ae8163b55a050
+SHA256: 23d19760afbff8f108a86f696ce09c16a18fc6a1a5a494b6e2f2926cbc957058
+Homepage: https://php.net
+Description: Apache 2.0 Handler module for PHP
+

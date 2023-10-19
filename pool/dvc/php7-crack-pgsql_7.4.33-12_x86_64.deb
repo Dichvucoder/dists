@@ -1,0 +1,15 @@
+Package: php7-crack-pgsql
+Version: 7.4.33-12
+Architecture: x86_64
+Maintainer: @Dichvucoder
+Installed-Size: 192
+Depends: apr-util, postgresql, php7-crack (= 7.4.33-12)
+Conflicts: php-pgsql
+Filename: pool/dvc/php7-crack-pgsql_7.4.33-12_x86_64.deb
+Size: 48024
+MD5sum: 12a5171c32f7ff2e480a7d3e52c0f44c
+SHA1: 1deb3936bb10176084b41a18d766841f7443b1da
+SHA256: 0e442d5ebf5818cb41ed978ae850c33676dfb21894a89d3a27c6eaee711b9677
+Homepage: https://php.net
+Description: PostgreSQL modules for PHP
+

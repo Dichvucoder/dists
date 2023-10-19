@@ -1,0 +1,16 @@
+Package: php8-crack
+Version: 8.2.5-5
+Architecture: aarch64
+Maintainer: @Dichvucoder
+Installed-Size: 52364
+Depends: libandroid-glob, libandroid-support, libbz2, libc++, libcurl, libffi, libgd, libgmp, libiconv, libicu, libresolv-wrapper, libsqlite, libxml2, libxslt, libzip, oniguruma, openssl, pcre2, readline, tidy, zlib
+Conflicts: php, php-mysql, php-dev, php7, php-8.1, php7-zts, php7.2, php7.2-zts, php7.2-threads, php7-crack
+Replaces: php, php-mysql, php-dev, php7, php-8.1, php7-zts, php7.2, php7.2-zts, php7.2-threads, php7-crack
+Filename: pool/dvc/php8-crack_8.2.5-5_aarch64.deb
+Size: 8798804
+MD5sum: 5ce8ec16e0aaa7fbe90d67ca427e82ca
+SHA1: e193beb5f699c297dcf9cd7dbbcb233726693f44
+SHA256: 72f7f73688433313fcfa5fe2dfacc65ec0859d18782bb5c62991ebaf3a21e25a
+Homepage: https://php.net
+Description: Server-side, HTML-embedded scripting language
+

@@ -776,62 +776,62 @@ Homepage: https://php.net
 Description: Apache 2.0 Handler module for PHP
 
 Package: php7-crack-apache
-Version: 7.4.33-11
+Version: 7.4.33-12
 Architecture: arm
 Maintainer: @Dichvucoder
 Installed-Size: 10740
-Depends: apache2, php7-crack (= 7.4.33-11)
-Filename: pool/dvc/php7-crack-apache_7.4.33-11_arm.deb
-Size: 2131988
-MD5sum: 7ba486980efea3a37904b69f6464cfbe
-SHA1: 258c0948666e09c23542f583816f0a87109aa3ab
-SHA256: 1dec2b7a48ad3d6db28ba5de67cb215c6ab07e6aef47c434071cdc20e4688582
+Depends: apache2, php7-crack (= 7.4.33-12)
+Filename: pool/dvc/php7-crack-apache_7.4.33-12_arm.deb
+Size: 2131500
+MD5sum: 83766b1a05977150f71e5aae6855bcc1
+SHA1: c237fbea00796d28b245226842b5da3354017983
+SHA256: 83d138c97bfff98378bf6187177b85a853246f246f4096373db4c1d8c00dcd86
 Homepage: https://php.net
 Description: Apache 2.0 Handler module for PHP
 
 Package: php7-crack-fpm
-Version: 7.4.33-11
+Version: 7.4.33-12
 Architecture: arm
 Maintainer: @Dichvucoder
 Installed-Size: 10872
-Depends: php7-crack (= 7.4.33-11)
+Depends: php7-crack (= 7.4.33-12)
 Conflicts: php-fpm
-Filename: pool/dvc/php7-crack-fpm_7.4.33-11_arm.deb
-Size: 2179936
-MD5sum: 91dc2782be50c37f03d9f0dd4ebbd03c
-SHA1: a1fa68d95a9c463e24795fcf4ea1c8c3c29d8afd
-SHA256: 5e3607cf9fcd874d29c1049c018ec87f5d5366341da7165aff1e23d534e6c687
+Filename: pool/dvc/php7-crack-fpm_7.4.33-12_arm.deb
+Size: 2181760
+MD5sum: 396fb093560c65c75c0932d3bb894965
+SHA1: ad2cce8f0c89cbafe0815c683f44229caa6499b7
+SHA256: ca75c3eda69bb72b5789cd39a380364ebfb67ee8fe7bf398331ff59bbfd02b96
 Homepage: https://php.net
 Description: FastCGI Process Manager for PHP
 
 Package: php7-crack-pgsql
-Version: 7.4.33-11
+Version: 7.4.33-12
 Architecture: arm
 Maintainer: @Dichvucoder
 Installed-Size: 136
-Depends: apr-util, postgresql, php7-crack (= 7.4.33-11)
+Depends: apr-util, postgresql, php7-crack (= 7.4.33-12)
 Conflicts: php-pgsql
-Filename: pool/dvc/php7-crack-pgsql_7.4.33-11_arm.deb
-Size: 40008
-MD5sum: 6bcd3427f5d3c899b333cf4a616e90ec
-SHA1: 05d4479282b905947ac42328ebbd27cdb6dd1b04
-SHA256: 13ab2124fd6945211356bcb30343d3c267fb1817bed5ab7c6f81000cc001bd4a
+Filename: pool/dvc/php7-crack-pgsql_7.4.33-12_arm.deb
+Size: 40244
+MD5sum: 562bb9cd50c742e4cf3d03b87e5ed8b6
+SHA1: ad7e34fecd708f9d1fccefcba9d91f218beeabac
+SHA256: 9ce98aad3403d8fa5c3d6903a194e6193dc1d11c772cb15d7a6f10bb07c3ccd9
 Homepage: https://php.net
 Description: PostgreSQL modules for PHP
 
 Package: php7-crack
-Version: 7.4.33-11
+Version: 7.4.33-12
 Architecture: arm
 Maintainer: @Dichvucoder
 Installed-Size: 38544
 Depends: libc++, freetype, libandroid-glob, libandroid-support, libbz2, libcrypt, libcurl, libgd, libgmp, libiconv, liblzma, libsqlite, libxml2, libxslt, libzip, oniguruma, openssl-1.1, pcre2, readline, zlib, libicu, libffi, tidy
 Conflicts: php, php-mysql, php-dev, php7, php-8.1, php7-zts, php7.2, php7.2-zts, php7.2-threads
 Replaces: php, php-mysql, php-dev, php7, php-8.1, php7-zts, php7.2, php7.2-zts, php7.2-threads
-Filename: pool/dvc/php7-crack_7.4.33-11_arm.deb
-Size: 7157348
-MD5sum: 13c0f8663204bc262a9fec9fb4bb825f
-SHA1: 71abdc6b5131f6d6edbcab93198675033a20511e
-SHA256: 7e12549c674ea84b6ea333f96a52e935541e362122da65c69baa680f99575e92
+Filename: pool/dvc/php7-crack_7.4.33-12_arm.deb
+Size: 7180356
+MD5sum: 74d14b5ebeb261967e0b9eedf37ab1bf
+SHA1: e3d9b554016175389882347730a4ad09e67c56f0
+SHA256: 27c011c17743fbb674ce6d878db39d1592dadc15967eaa44367b013efaa54269
 Homepage: https://php.net
 Description: Server-side, HTML-embedded scripting language + PHP_DECRYPT : PHP CRACK
 
@@ -1163,146 +1163,146 @@ Homepage: https://php.net
 Description: Server-side, HTML-embedded scripting language
 
 Package: php8-crack-apache-ldap
-Version: 8.2.5-4
+Version: 8.2.5-5
 Architecture: arm
 Maintainer: @Dichvucoder
 Installed-Size: 96
-Depends: openldap, php-apache, php8-crack (= 8.2.5-4)
-Filename: pool/dvc/php8-crack-apache-ldap_8.2.5-4_arm.deb
-Size: 22324
-MD5sum: 9a567e19cf4278732a56ddb4dea0c41e
-SHA1: 3cf2b63f4b923ea662da8d6bfd6dc86fec5e264a
-SHA256: bf471a3414764b2bba706b5b55a59aee1bf49e0d349b8ad2d8d654b77d24d74a
+Depends: openldap, php-apache, php8-crack (= 8.2.5-5)
+Filename: pool/dvc/php8-crack-apache-ldap_8.2.5-5_arm.deb
+Size: 22260
+MD5sum: f79105a0d8b3dc18766840f978409e18
+SHA1: cba5b317812df6698448f4d6078385fe1753bd98
+SHA256: 0e35bd452f51ce070809a736d1d51dfac3818e29359b130d49b0ea12481302ee
 Homepage: https://php.net
 Description: LDAP module for PHP/Apache
 
 Package: php8-crack-apache-opcache
-Version: 8.2.5-4
+Version: 8.2.5-5
 Architecture: arm
 Maintainer: @Dichvucoder
 Installed-Size: 144
-Depends: php-apache, php8-crack (= 8.2.5-4)
-Filename: pool/dvc/php8-crack-apache-opcache_8.2.5-4_arm.deb
-Size: 46688
-MD5sum: 65719f7e1ad8d3eeadd463de28cbcc44
-SHA1: b99fab200e124383777cd68da3a1b534743ec0f5
-SHA256: 9398c0462c9075072188beb05f55e7a2d22336dc9837335be09c1a018d62b38b
+Depends: php-apache, php8-crack (= 8.2.5-5)
+Filename: pool/dvc/php8-crack-apache-opcache_8.2.5-5_arm.deb
+Size: 46704
+MD5sum: dd46d18130bc3b3654ca4086d99e35b7
+SHA1: 2a1dec5f8bce661f4ef2d840cd7b59ada3325372
+SHA256: 35ae26fb8245459bafc6fa686a611f9f2c227508d41a0c5aaf4ffde2111c89d6
 Homepage: https://php.net
 Description: OPcache module for PHP/Apache
 
 Package: php8-crack-apache-pgsql
-Version: 8.2.5-4
+Version: 8.2.5-5
 Architecture: arm
 Maintainer: @Dichvucoder
 Installed-Size: 160
-Depends: php-apache, postgresql, php8-crack (= 8.2.5-4)
-Filename: pool/dvc/php8-crack-apache-pgsql_8.2.5-4_arm.deb
-Size: 40932
-MD5sum: 3681023a5ded76c45a46e7e4ac09c09a
-SHA1: 06120de858303ca5771a021be4e88e74a4e2d67a
-SHA256: 70f1d6c2161af7cb2c0225b7f88ace3b76907e8dbb8123664fd8d97515c3f4c5
+Depends: php-apache, postgresql, php8-crack (= 8.2.5-5)
+Filename: pool/dvc/php8-crack-apache-pgsql_8.2.5-5_arm.deb
+Size: 40980
+MD5sum: 1ba10dd96d76cd2e87cc9536b2e89a2f
+SHA1: d2ff8d83b68576591cd367706cb0366f2bfaec98
+SHA256: 6134703766b10a74b3c7648e914108c00ffe4e046fc9cde54d28480a2276fa1e
 Homepage: https://php.net
 Description: PostgreSQL modules for PHP/Apache
 
 Package: php8-crack-apache-sodium
-Version: 8.2.5-4
+Version: 8.2.5-5
 Architecture: arm
 Maintainer: @Dichvucoder
 Installed-Size: 108
-Depends: libsodium, php-apache, php8-crack (= 8.2.5-4)
-Filename: pool/dvc/php8-crack-apache-sodium_8.2.5-4_arm.deb
-Size: 19444
-MD5sum: 01d6c6691cfbe5c13bba9e4d3778cde4
-SHA1: f700f69e8769ecb3c80399afde0c3bda28b0c782
-SHA256: a21af677423faeec4bd2583a1eeab5c3bf4578e2bf73786ffd00f132bccad6b6
+Depends: libsodium, php-apache, php8-crack (= 8.2.5-5)
+Filename: pool/dvc/php8-crack-apache-sodium_8.2.5-5_arm.deb
+Size: 19476
+MD5sum: 3a3f0711e44c29710f1722948967328b
+SHA1: afd6cf296653463900d5e161e0af1945a617a6d3
+SHA256: 68e8771dca985ced1fa8d0ec6f778a5d8963b1da756dfe3744b12400b93f6485
 Homepage: https://php.net
 Description: Sodium module for PHP/Apache
 
 Package: php8-crack-apache
-Version: 8.2.5-4
+Version: 8.2.5-5
 Architecture: arm
 Maintainer: @Dichvucoder
 Installed-Size: 12400
-Depends: apache2, apr-util, php8-crack (= 8.2.5-4)
-Filename: pool/dvc/php8-crack-apache_8.2.5-4_arm.deb
-Size: 2392760
-MD5sum: f7c9303109899006fd8e6e14a789789a
-SHA1: e9be06b91b6ff75843196efe3cf7b4a736443bb9
-SHA256: d0ecd890eb932a928f519bd9bf3a1adb4879695b2300eb1cf85c756e75b694d0
+Depends: apache2, apr-util, php8-crack (= 8.2.5-5)
+Filename: pool/dvc/php8-crack-apache_8.2.5-5_arm.deb
+Size: 2392348
+MD5sum: ad0e54ccc0dcc0f9e6ffe616efae250c
+SHA1: 9568f34547a49daa3c99eb8430e5028da501c374
+SHA256: 286fe2edec0a62792278ab8b89aeed40d08f3c31dffaa37e8a58700bc2afce17
 Homepage: https://php.net
 Description: Apache 2.0 Handler module for PHP
 
 Package: php8-crack-fpm
-Version: 8.2.5-4
+Version: 8.2.5-5
 Architecture: arm
 Maintainer: @Dichvucoder
 Installed-Size: 12500
-Depends: php8-crack (= 8.2.5-4)
+Depends: php8-crack (= 8.2.5-5)
 Breaks: php (<< 8.1.12)
 Replaces: php (<< 8.1.12)
-Filename: pool/dvc/php8-crack-fpm_8.2.5-4_arm.deb
-Size: 2443340
-MD5sum: 0c8290b3bfb3d37925b66ca8cd8f67f2
-SHA1: 4064bc5d96e1b9bd5b0cd76e5025da7d11452d11
-SHA256: 09ebd9a19057a0042ffc1736f29633f965ccb9c41621cdd3959e1c7aa040255d
+Filename: pool/dvc/php8-crack-fpm_8.2.5-5_arm.deb
+Size: 2447784
+MD5sum: 3ed181bc1bb1a544ca08c21de93330d8
+SHA1: f7cec27f8fcf03365b7c96493d5b7389af8d7c02
+SHA256: 5f37b810542fb77cd9c5b2153f91d1fbcaed88e92c93413c4a3070f6d35cec5c
 Homepage: https://php.net
 Description: FastCGI Process Manager for PHP
 
 Package: php8-crack-ldap
-Version: 8.2.5-4
+Version: 8.2.5-5
 Architecture: arm
 Maintainer: @Dichvucoder
 Installed-Size: 88
-Depends: openldap, php8-crack (= 8.2.5-4)
-Filename: pool/dvc/php8-crack-ldap_8.2.5-4_arm.deb
-Size: 22092
-MD5sum: 3d58c19f5920810c88ca9973458d452d
-SHA1: f9c64a68fcaf10b099aa70d1fa617e7ceec8de34
-SHA256: 8a89fac2e227048e42787495f18cb9638bd4c9a15b6248b06e84bdc01cd4cf08
+Depends: openldap, php8-crack (= 8.2.5-5)
+Filename: pool/dvc/php8-crack-ldap_8.2.5-5_arm.deb
+Size: 22076
+MD5sum: 20c77194b9b41d58b794b2bf35d80d33
+SHA1: 0895a06ddb0c96fb9c15aed5d0c3f688375ad094
+SHA256: 9609236aa433e45b931108d8ab5664a4106dc47d2aae3d564c49b37745714185
 Homepage: https://php.net
 Description: LDAP module for PHP
 
 Package: php8-crack-pgsql
-Version: 8.2.5-4
+Version: 8.2.5-5
 Architecture: arm
 Maintainer: @Dichvucoder
 Installed-Size: 140
-Depends: postgresql, php8-crack (= 8.2.5-4)
-Filename: pool/dvc/php8-crack-pgsql_8.2.5-4_arm.deb
-Size: 40548
-MD5sum: 166be562cbd59929f7233f885c2cb550
-SHA1: 84ca945c91cf9d88d2ad4eed41493618cc49d501
-SHA256: ab38fb3d93a3e9a28931ad0a2a6d71516c1e171f649695e362786e2026b80a24
+Depends: postgresql, php8-crack (= 8.2.5-5)
+Filename: pool/dvc/php8-crack-pgsql_8.2.5-5_arm.deb
+Size: 40692
+MD5sum: b7282329d82278767653c13623255f94
+SHA1: 8b45485341a2e3bcbab79f692c5f6ac9a1515f9c
+SHA256: b6d01f53af9b8249d4c322b18ca676af675f487e7539d68fcdfc3b42b61dfbba
 Homepage: https://php.net
 Description: PostgreSQL modules for PHP
 
 Package: php8-crack-sodium
-Version: 8.2.5-4
+Version: 8.2.5-5
 Architecture: arm
 Maintainer: @Dichvucoder
 Installed-Size: 100
-Depends: libsodium, php8-crack (= 8.2.5-4)
-Filename: pool/dvc/php8-crack-sodium_8.2.5-4_arm.deb
-Size: 19336
-MD5sum: cfc77ad68b40e3088b0aaace82e61451
-SHA1: 5cb9cd0dde1a756f1b2d847689a02b891b038b16
-SHA256: 29af8c607fa6e688efcb4b4a3ac5fdc6a47521b670194c5bbea7c0038a13fd3a
+Depends: libsodium, php8-crack (= 8.2.5-5)
+Filename: pool/dvc/php8-crack-sodium_8.2.5-5_arm.deb
+Size: 19384
+MD5sum: 8662af7386e46a2cc4e175ad8b897332
+SHA1: bdc6ac0640015175445698c61db5d8448a193d8a
+SHA256: 96fb581fc9895a57d8959ab082fc40b62d16d9f87d2cb7e4d08b72a5f84fb77c
 Homepage: https://php.net
 Description: Sodium module for PHP
 
 Package: php8-crack
-Version: 8.2.5-4
+Version: 8.2.5-5
 Architecture: arm
 Maintainer: @Dichvucoder
 Installed-Size: 44116
 Depends: libandroid-glob, libandroid-support, libbz2, libc++, libcurl, libffi, libgd, libgmp, libiconv, libicu, libresolv-wrapper, libsqlite, libxml2, libxslt, libzip, oniguruma, openssl, pcre2, readline, tidy, zlib
 Conflicts: php, php-mysql, php-dev, php7, php-8.1, php7-zts, php7.2, php7.2-zts, php7.2-threads, php7-crack
 Replaces: php, php-mysql, php-dev, php7, php-8.1, php7-zts, php7.2, php7.2-zts, php7.2-threads, php7-crack
-Filename: pool/dvc/php8-crack_8.2.5-4_arm.deb
-Size: 7939340
-MD5sum: eadc4ee1ec4b51d6aa9ca78eeb265d87
-SHA1: 2fbe7222f8e856dd240bb78992bba9891b252880
-SHA256: 766d9afb45300394edd976d6c64844e116093c3d4983dd205877002d804c502f
+Filename: pool/dvc/php8-crack_8.2.5-5_arm.deb
+Size: 7965388
+MD5sum: 31b26735f1ec054cfd71fff4a85114c1
+SHA1: 4739cff356d07ef4eea7b4d63f1a05becaef740e
+SHA256: 72d30bba2e10e2119f3731c05698302d04ebf337aae58453068b0a5a59d12465
 Homepage: https://php.net
 Description: Server-side, HTML-embedded scripting language
 

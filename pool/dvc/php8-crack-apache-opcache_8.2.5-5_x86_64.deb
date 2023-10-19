@@ -1,0 +1,14 @@
+Package: php8-crack-apache-opcache
+Version: 8.2.5-5
+Architecture: x86_64
+Maintainer: @Dichvucoder
+Installed-Size: 976
+Depends: php-apache, php8-crack (= 8.2.5-5)
+Filename: pool/dvc/php8-crack-apache-opcache_8.2.5-5_x86_64.deb
+Size: 309848
+MD5sum: 6f1e5d8042f299aa2cdac993cf9ba1de
+SHA1: 39ee42bc0683e5565e28390f7c13fd7665194694
+SHA256: 90e437eb6f16961ab5e406865275664bf159e74fa4e753f47d20ff77cdcd6900
+Homepage: https://php.net
+Description: OPcache module for PHP/Apache
+
