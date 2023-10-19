@@ -1,0 +1,14 @@
+Package: muti-php8.2-crack-apache
+Version: 8.2.5-8
+Architecture: aarch64
+Maintainer: @Dichvucoder
+Installed-Size: 14684
+Depends: apache2, apr-util, muti-php8.2-crack (= 8.2.5-8)
+Filename: pool/dvc/muti-php8.2-crack-apache_8.2.5-8_aarch64.deb
+Size: 2550300
+MD5sum: aa35cb856ea158e2468628282f0748c0
+SHA1: feb8bd2f6e62eed6f9ea4da7a1b44957e4a257cb
+SHA256: f615dda485544846fbdbe02dc8b93ec5b15611a20898c81b36915ac22195c46f
+Homepage: https://php.net
+Description: Apache 2.0 Handler module for PHP
+

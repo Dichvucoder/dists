@@ -1,0 +1,14 @@
+Package: muti-php8.2-crack-sodium
+Version: 8.2.5-8
+Architecture: i686
+Maintainer: @Dichvucoder
+Installed-Size: 24
+Depends: libsodium, muti-php8.2-crack (= 8.2.5-8)
+Filename: pool/dvc/muti-php8.2-crack-sodium_8.2.5-8_i686.deb
+Size: 800
+MD5sum: 8bd2d5fef1bbb76b35b943a3ace3198f
+SHA1: a5dc1fb514100913f1521a4519dc6acf25f47621
+SHA256: b975c51043aa439308023b930b7d3714fe78d915b5aed17325b2e889527051f0
+Homepage: https://php.net
+Description: Sodium module for PHP
+
