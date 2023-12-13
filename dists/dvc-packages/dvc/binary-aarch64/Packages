@@ -24,6 +24,20 @@ SHA256: dd1788b93d39b82d5a5394ef7b44e851508717fcf237049f04ab334701424044
 Homepage: https://quanghuynopro.xyz
 Description: Mouse tool by huy
 
+Package: icu-73-devtools
+Version: 74.1+real73.2
+Architecture: aarch64
+Maintainer: @dgbaodev
+Installed-Size: 1008
+Depends: libicu-73 (= 74.1+real73.2)
+Filename: pool/dvc/icu-73-devtools_74.1+real73.2_aarch64.deb
+Size: 216916
+MD5sum: 6094815130304ed2746aad052c1ee7c9
+SHA1: 9f0efbd7b3f83c1f433e38db9619edae36bbcef0
+SHA256: 9560e9705d7aea427f8cb1d1d0ef460533565194711063edd8823199bc482475
+Homepage: http://site.icu-project.org/home
+Description: Development utilities for International Components for Unicode
+
 Package: just-a-test-package
 Version: 0.2.2
 Architecture: aarch64
@@ -64,6 +78,36 @@ SHA1: 7599bae792390363beeee010b9f9c918a22416f7
 SHA256: 8c426a6cd0dbba7318290947da8f91a1cb998511fe22eaec9b9572954017a0da
 Homepage: https://dichvucoder.com
 Description: Lib PHP-CRACK Fix Alom for DVC PHP
+
+Package: libicu-73-static
+Version: 74.1+real73.2
+Architecture: aarch64
+Maintainer: @dgbaodev
+Installed-Size: 44084
+Depends: libicu-73 (= 74.1+real73.2)
+Filename: pool/dvc/libicu-73-static_74.1+real73.2_aarch64.deb
+Size: 9605500
+MD5sum: a9814fb1644834850fcf0d1879a06246
+SHA1: b09040d0468b1bfe9c5dd706ae22de6b35c5c7c8
+SHA256: eb55d35915d94cc1a14ad263ac4d632973a90f189fa2242f13a3314c36d68127
+Homepage: http://site.icu-project.org/home
+Description: Static libraries for libicu-73
+
+Package: libicu-73
+Version: 74.1+real73.2
+Architecture: aarch64
+Maintainer: @dgbaodev
+Installed-Size: 41780
+Depends: libc++
+Breaks: libicu-dev, libicu
+Replaces: libicu-dev, libicu
+Filename: pool/dvc/libicu-73_74.1+real73.2_aarch64.deb
+Size: 9740332
+MD5sum: 0c6e5e8ecb36fa30c63b40e549c88d9a
+SHA1: b62353def14c263f51bffa5e5c59c543b49f48fe
+SHA256: b0c4bb0c89f9dea3347efe9daeae76effad0d1e54f669dee2f5ab846341af187
+Homepage: http://site.icu-project.org/home
+Description: International Components for Unicode library
 
 Package: muti-php7.4-apache
 Version: 7.4.33-8

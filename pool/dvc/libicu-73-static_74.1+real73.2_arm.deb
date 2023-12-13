@@ -1,0 +1,14 @@
+Package: libicu-73-static
+Version: 74.1+real73.2
+Architecture: arm
+Maintainer: @dgbaodev
+Installed-Size: 41204
+Depends: libicu-73 (= 74.1+real73.2)
+Filename: pool/dvc/libicu-73-static_74.1+real73.2_arm.deb
+Size: 9518220
+MD5sum: 6a380bc3cf73aa3026ea50cda5a7e493
+SHA1: 4bb697442939221b39e38573cf39acb86b2f333a
+SHA256: 01eb09c3b8fda532e9258d6a3cf081e2e6d3e0a73deceeff1cf3cff44f9f1d30
+Homepage: http://site.icu-project.org/home
+Description: Static libraries for libicu-73
+

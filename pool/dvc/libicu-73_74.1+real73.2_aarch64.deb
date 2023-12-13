@@ -1,0 +1,16 @@
+Package: libicu-73
+Version: 74.1+real73.2
+Architecture: aarch64
+Maintainer: @dgbaodev
+Installed-Size: 41780
+Depends: libc++
+Breaks: libicu-dev, libicu
+Replaces: libicu-dev, libicu
+Filename: pool/dvc/libicu-73_74.1+real73.2_aarch64.deb
+Size: 9740332
+MD5sum: 0c6e5e8ecb36fa30c63b40e549c88d9a
+SHA1: b62353def14c263f51bffa5e5c59c543b49f48fe
+SHA256: b0c4bb0c89f9dea3347efe9daeae76effad0d1e54f669dee2f5ab846341af187
+Homepage: http://site.icu-project.org/home
+Description: International Components for Unicode library
+

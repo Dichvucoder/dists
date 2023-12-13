@@ -1,0 +1,14 @@
+Package: icu-73-devtools
+Version: 74.1+real73.2
+Architecture: x86_64
+Maintainer: @dgbaodev
+Installed-Size: 1000
+Depends: libicu-73 (= 74.1+real73.2)
+Filename: pool/dvc/icu-73-devtools_74.1+real73.2_x86_64.deb
+Size: 232688
+MD5sum: e3a52264950e8a18c1bb05ebd4f8ea8b
+SHA1: b1304f302d8efc2296c84a482569604b3013d388
+SHA256: cb9ec02436601032a048a05c1845761877e2397e2eee0e0adac48442b778b3f1
+Homepage: http://site.icu-project.org/home
+Description: Development utilities for International Components for Unicode
+
