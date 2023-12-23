@@ -1,0 +1,14 @@
+Package: muti-php8.2-crack-apache-opcache
+Version: 8.2.8-1
+Architecture: i686
+Maintainer: @Dichvucoder
+Installed-Size: 24
+Depends: php-apache, muti-php8.2-crack (= 8.2.8-1)
+Filename: pool/dvc/muti-php8.2-crack-apache-opcache_8.2.8-1_i686.deb
+Size: 808
+MD5sum: 492faedc1f081949181eb9f246dce8eb
+SHA1: 220ed658724c297d1d74d484350250b6c45da037
+SHA256: 153ca8d98dd78baa87d12ebe2862b31f679f9e375da8fadc19eed8589640c9a4
+Homepage: https://php.net
+Description: OPcache module for PHP/Apache
+

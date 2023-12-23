@@ -1,0 +1,14 @@
+Package: muti-php8.2-crack-apache-pgsql
+Version: 8.2.8-1
+Architecture: arm
+Maintainer: @Dichvucoder
+Installed-Size: 24
+Depends: php-apache, postgresql, muti-php8.2-crack (= 8.2.8-1)
+Filename: pool/dvc/muti-php8.2-crack-apache-pgsql_8.2.8-1_arm.deb
+Size: 816
+MD5sum: 930301c3b40e6b60c3515b89863a03df
+SHA1: 04e1a04674309a34465fc5975522feeed279e0e8
+SHA256: d941b9d675eb99db97c595d00dbe128c0ca6d6e3f1cf1bbd310bbb5fe2c1b592
+Homepage: https://php.net
+Description: PostgreSQL modules for PHP/Apache
+
