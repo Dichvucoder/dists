@@ -806,16 +806,16 @@ Homepage: https://dgbaodev.com
 Description: Returns the realpath of a selected file
 
 Package: php7-apache
-Version: 7.4.33-11
+Version: 7.4.33-12
 Architecture: x86_64
 Maintainer: @Dichvucoder
-Installed-Size: 13232
-Depends: apache2, php7 (= 7.4.33-11)
-Filename: pool/dvc/php7-apache_7.4.33-11_x86_64.deb
-Size: 2447016
-MD5sum: de1896ca77e01376453b7f35f2ff6c69
-SHA1: ad97d7fa6b9a48b8bbd15771009394657c677995
-SHA256: 17618e32c67b9aae3dcf18691626b1f6f4d6ccda8cd056a930a7d3a3742756c2
+Installed-Size: 13248
+Depends: apache2, php7 (= 7.4.33-12)
+Filename: pool/dvc/php7-apache_7.4.33-12_x86_64.deb
+Size: 2438260
+MD5sum: fd9dfc2562d0256c24c261d56a31c150
+SHA1: 65ae44034119116adc60de70baded1ecc4ef3740
+SHA256: 8b0cec96a15d773f7629da120585dc3be50de0d588ffdc919e7de0cb3b07ed2f
 Homepage: https://php.net
 Description: Apache 2.0 Handler module for PHP
 
@@ -982,17 +982,17 @@ Homepage: https://php.net
 Description: Server-side, HTML-embedded scripting language + EvalHook
 
 Package: php7-fpm
-Version: 7.4.33-11
+Version: 7.4.33-12
 Architecture: x86_64
 Maintainer: @Dichvucoder
-Installed-Size: 13336
-Depends: php7 (= 7.4.33-11)
+Installed-Size: 13380
+Depends: php7 (= 7.4.33-12)
 Conflicts: php-fpm
-Filename: pool/dvc/php7-fpm_7.4.33-11_x86_64.deb
-Size: 2498320
-MD5sum: 578828d9d63ed0e043925d8a660905a0
-SHA1: d1681df3d54f1fc6c5d46be3ef947cfdcf12acf3
-SHA256: f78674c236a8e625a243e7fb2c7fa06fd2e41c17657805132008fd369a833120
+Filename: pool/dvc/php7-fpm_7.4.33-12_x86_64.deb
+Size: 2492872
+MD5sum: 2e673a6f0f85acd9b9b27bb7bd9b9eba
+SHA1: 77df6590c1a47c616dc35d96ed17d24cca0c0a25
+SHA256: b03493b01eacc00c90781d918935f95f7b1e006e1f045683d2a5a523b5823f55
 Homepage: https://php.net
 Description: FastCGI Process Manager for PHP
 
@@ -1012,17 +1012,17 @@ Homepage: https://php.net
 Description: Server-side, HTML-embedded scripting language
 
 Package: php7-pgsql
-Version: 7.4.33-11
+Version: 7.4.33-12
 Architecture: x86_64
 Maintainer: @Dichvucoder
 Installed-Size: 192
-Depends: apr-util, postgresql, php7 (= 7.4.33-11)
+Depends: apr-util, postgresql, php7 (= 7.4.33-12)
 Conflicts: php-pgsql
-Filename: pool/dvc/php7-pgsql_7.4.33-11_x86_64.deb
+Filename: pool/dvc/php7-pgsql_7.4.33-12_x86_64.deb
 Size: 47884
-MD5sum: 81af42356d9ba714a9b36a2c33512637
-SHA1: 5f1a3636bd4a2011cd41f846e37e184c04232f95
-SHA256: 98cc24bd1850dc29b9667e98dadbc80b36bc5fc48a56e2689580fe091cf84b48
+MD5sum: e091128f8d40ae11b196bb6a795d6dad
+SHA1: 186483aab12fd9bd6d40247e9642518f8f618bd7
+SHA256: b4c871a89305d0dabf35817a41ac336f7056d88e04916b39d8d3c3586cc3afe5
 Homepage: https://php.net
 Description: PostgreSQL modules for PHP
 
@@ -1191,18 +1191,18 @@ Homepage: https://php.net
 Description: Server-side, HTML-embedded scripting language
 
 Package: php7
-Version: 7.4.33-11
+Version: 7.4.33-12
 Architecture: x86_64
 Maintainer: @Dichvucoder
-Installed-Size: 46200
+Installed-Size: 46244
 Depends: libc++, freetype, libandroid-glob, libandroid-support, libbz2, libcrypt, libcurl, libgd, libgmp, libiconv, liblzma, libsqlite, libxml2, libxslt, libzip, oniguruma, openssl-1.1, pcre2, readline, zlib, libicu, libffi, tidy
 Conflicts: php, php-mysql, php-dev, php7-crack, php7-zts, php7.2, php7.2-zts, php7.2-threads, php-8.1
 Replaces: php, php-mysql, php-dev, php7-crack, php7-zts, php7.2, php7.2-zts, php7.2-threads, php-8.1
-Filename: pool/dvc/php7_7.4.33-11_x86_64.deb
-Size: 8160868
-MD5sum: 1650a3a60f1b9dccc035502825cad1fd
-SHA1: d0e5db58d1de7302d971ec1393ceae3ccd30a78e
-SHA256: ece4d01eed6ebf2d5ed94e3783ab3fa6c26136d1818703d22395d0a53215c3ed
+Filename: pool/dvc/php7_7.4.33-12_x86_64.deb
+Size: 8125768
+MD5sum: 5f66df409297419d0a2ddfe4215627b4
+SHA1: e100c74599e7f31ac2c789fd130fdb1a337d4b47
+SHA256: 159ceb06380f0df4d9d252a465411f73b0087b631a7eed6b3eec3adf2af321e3
 Homepage: https://php.net
 Description: Server-side, HTML-embedded scripting language
 

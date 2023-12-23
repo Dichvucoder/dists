@@ -1,0 +1,14 @@
+Package: php7-apache
+Version: 7.4.33-12
+Architecture: aarch64
+Maintainer: @Dichvucoder
+Installed-Size: 13112
+Depends: apache2, php7 (= 7.4.33-12)
+Filename: pool/dvc/php7-apache_7.4.33-12_aarch64.deb
+Size: 2324796
+MD5sum: 8fbd69c2743f83fd9e7a29eb9e281f69
+SHA1: 9ab026b8d0300e862ad56c7feb4bc2f632a9454a
+SHA256: 7f02b8cb4df943040c87d86808c1a6abcb43337acf9bcdb357fa757aca02f463
+Homepage: https://php.net
+Description: Apache 2.0 Handler module for PHP
+
