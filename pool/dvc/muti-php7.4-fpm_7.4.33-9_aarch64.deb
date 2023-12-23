@@ -1,0 +1,15 @@
+Package: muti-php7.4-fpm
+Version: 7.4.33-9
+Architecture: aarch64
+Maintainer: @Dichvucoder
+Installed-Size: 13172
+Depends: muti-php7.4 (= 7.4.33-9)
+Conflicts: php-fpm
+Filename: pool/dvc/muti-php7.4-fpm_7.4.33-9_aarch64.deb
+Size: 2366416
+MD5sum: 1324aa459cdb63a0350428d90bfa2301
+SHA1: 52eb6484468b4bb602ecd8fafcb0a310d0c4eae9
+SHA256: 8120107a44b94d7dcf5492dccb2a03bdee825f18a84c9e6cd74386e1f9529946
+Homepage: https://php.net
+Description: FastCGI Process Manager for PHP
+

@@ -110,74 +110,74 @@ Homepage: http://site.icu-project.org/home
 Description: International Components for Unicode library
 
 Package: muti-php7.4-apache
-Version: 7.4.33-8
+Version: 7.4.33-9
 Architecture: arm
 Maintainer: @Dichvucoder
-Installed-Size: 10732
-Depends: apache2, muti-php7.4 (= 7.4.33-8)
-Filename: pool/dvc/muti-php7.4-apache_7.4.33-8_arm.deb
-Size: 2127464
-MD5sum: 61648e5d64d4d1dc651cd720096d6763
-SHA1: 725ebd669bc2b83716f0842d744a8f4c1e496f9d
-SHA256: 2c4b59d4f86ecc4791fbfa993e045baeda2fc9b98f02a324c42d0cba6a82924c
+Installed-Size: 10724
+Depends: apache2, muti-php7.4 (= 7.4.33-9)
+Filename: pool/dvc/muti-php7.4-apache_7.4.33-9_arm.deb
+Size: 2127312
+MD5sum: 7a72d37007eac4e5dd436053b79697e7
+SHA1: 20548e0511110fe79857aa711148c4a0ac994dad
+SHA256: 06cabc96d3fad94df7453accca673e6423d4cf724f6eeaf9cd77ec9e2dee102d
 Homepage: https://php.net
 Description: Apache 2.0 Handler module for PHP
 
 Package: muti-php7.4-crack-apache
-Version: 7.4.33-9
+Version: 7.4.33-10
 Architecture: arm
 Maintainer: @Dichvucoder
-Installed-Size: 10740
-Depends: apache2, muti-php7.4-crack (= 7.4.33-9)
-Filename: pool/dvc/muti-php7.4-crack-apache_7.4.33-9_arm.deb
-Size: 2133832
-MD5sum: 4ee18e5d22a1e9aaf1d55c9ea29e36a8
-SHA1: 21b02ff5246056464e242fe1cc2e0689eb096e86
-SHA256: 870442bdd93951fecc36e0f7c2d87e2b1c7010615b24d17e603a9f97019b8ac6
+Installed-Size: 10732
+Depends: apache2, muti-php7.4-crack (= 7.4.33-10)
+Filename: pool/dvc/muti-php7.4-crack-apache_7.4.33-10_arm.deb
+Size: 2128960
+MD5sum: ee45cdfcee6e1a15401cdfc76abd5984
+SHA1: 99e3aebf0bb98ff729b0a58135c520898b2b40d2
+SHA256: 8c6c44af54b75894676bb8f4e8fefa80d54411342a4840b034fc8938a372fa5a
 Homepage: https://php.net
 Description: Apache 2.0 Handler module for PHP
 
 Package: muti-php7.4-crack-fpm
-Version: 7.4.33-9
+Version: 7.4.33-10
 Architecture: arm
 Maintainer: @Dichvucoder
-Installed-Size: 10792
-Depends: muti-php7.4-crack (= 7.4.33-9)
+Installed-Size: 10784
+Depends: muti-php7.4-crack (= 7.4.33-10)
 Conflicts: php-fpm
-Filename: pool/dvc/muti-php7.4-crack-fpm_7.4.33-9_arm.deb
-Size: 2168776
-MD5sum: 95f3933ba584b57e68eaf093a54ecc53
-SHA1: 58113fc8f50053395744cee1518dc169afdee2ed
-SHA256: 4f21209c7c6696d873f8038d0ff55b0ff99e96679bb14e836687a81a0f98bf43
+Filename: pool/dvc/muti-php7.4-crack-fpm_7.4.33-10_arm.deb
+Size: 2170912
+MD5sum: 50d9c98e0ab522ece6400748fa0da004
+SHA1: 9d51e6e63769f807628b3b1435e1f5bbafeac923
+SHA256: ed0983e187da4b34095d007d953ecd2b9d0f7dfb21685ec2b1254a394f43b2b1
 Homepage: https://php.net
 Description: FastCGI Process Manager for PHP
 
 Package: muti-php7.4-crack-pgsql
-Version: 7.4.33-9
+Version: 7.4.33-10
 Architecture: arm
 Maintainer: @Dichvucoder
 Installed-Size: 24
-Depends: apr-util, postgresql, muti-php7.4-crack (= 7.4.33-9)
+Depends: apr-util, postgresql, muti-php7.4-crack (= 7.4.33-10)
 Conflicts: php-pgsql
-Filename: pool/dvc/muti-php7.4-crack-pgsql_7.4.33-9_arm.deb
+Filename: pool/dvc/muti-php7.4-crack-pgsql_7.4.33-10_arm.deb
 Size: 824
-MD5sum: 65e74d48a8e016f97cd9eca10126e63d
-SHA1: b08067431a158c1abfbe5b733044cb1a49755f55
-SHA256: dcb13463b9a4e4e0382481911b0c090f9ad93bfc45ddbee47b00a9cc5cedcff3
+MD5sum: 283fa0b9a1902dd8bc709cb389223be5
+SHA1: 30c58ab0a9f828afb78d360248f351e2cc9b4911
+SHA256: d0a8c6292d07b1e1cb17ff8620ac98a35b891df51a50f8424435b571d52007fd
 Homepage: https://php.net
 Description: PostgreSQL modules for PHP
 
 Package: muti-php7.4-crack
-Version: 7.4.33-9
+Version: 7.4.33-10
 Architecture: arm
 Maintainer: @Dichvucoder
-Installed-Size: 42144
+Installed-Size: 42440
 Depends: libc++, freetype, libandroid-glob, libandroid-support, libbz2, libcrypt, libcurl, libgd, libgmp, libiconv, liblzma, libsqlite, libxml2, libxslt, libzip, oniguruma, openssl-1.1, pcre2, readline, zlib, libicu, libffi, tidy
-Filename: pool/dvc/muti-php7.4-crack_7.4.33-9_arm.deb
-Size: 7831244
-MD5sum: 0d576d78cb9e6f65764d85af4c6563d0
-SHA1: b1152ad167baaacc9fe426a15a6304617d0316d2
-SHA256: 15ae9cee7be92ffe172256daf50231a97b301b4475d0b14db2ab17eb9aab18dd
+Filename: pool/dvc/muti-php7.4-crack_7.4.33-10_arm.deb
+Size: 7860860
+MD5sum: 66b32cdd977531ed345f2d8075e3a60b
+SHA1: 20bf27bef7dc7bcca6113210edbc46837a4cd7b0
+SHA256: 2f83c99b21960e0ff27279f853906c674a4701bb362ffa480f7a7943fc217a57
 Homepage: https://php.net
 Description: Server-side, HTML-embedded scripting language + PHP_DECRYPT : PHP CRACK
 
@@ -210,46 +210,46 @@ Homepage: https://dgbaodev.com
 Description: Returns the realpath of a selected file
 
 Package: muti-php7.4-fpm
-Version: 7.4.33-8
+Version: 7.4.33-9
 Architecture: arm
 Maintainer: @Dichvucoder
-Installed-Size: 10784
-Depends: muti-php7.4 (= 7.4.33-8)
+Installed-Size: 10776
+Depends: muti-php7.4 (= 7.4.33-9)
 Conflicts: php-fpm
-Filename: pool/dvc/muti-php7.4-fpm_7.4.33-8_arm.deb
-Size: 2168584
-MD5sum: 27c87bc708872b61f89dce6f38c72668
-SHA1: 85dccf636536bdb00be4716256b596a25c705582
-SHA256: 00e7984ec584cb2d469be6ffb600faf555c569b48fa4330c0e1f94a370cfba90
+Filename: pool/dvc/muti-php7.4-fpm_7.4.33-9_arm.deb
+Size: 2165368
+MD5sum: 1fe5631eee29d6d2d9139018ddda8b9b
+SHA1: d3a121aaeae1f7706d32f04548aeaf52e2b1fc0a
+SHA256: 55cb65cbe96ca045be5eebc0c8716b5f121ea22d681d403c5ab21f1cb3cbcca2
 Homepage: https://php.net
 Description: FastCGI Process Manager for PHP
 
 Package: muti-php7.4-pgsql
-Version: 7.4.33-8
+Version: 7.4.33-9
 Architecture: arm
 Maintainer: @Dichvucoder
 Installed-Size: 24
-Depends: apr-util, postgresql, muti-php7.4 (= 7.4.33-8)
+Depends: apr-util, postgresql, muti-php7.4 (= 7.4.33-9)
 Conflicts: php-pgsql
-Filename: pool/dvc/muti-php7.4-pgsql_7.4.33-8_arm.deb
-Size: 816
-MD5sum: 0c6e75c7d5d5a2a0928dc5a8373a45f3
-SHA1: 8a27739122df6b15bffc7c173310f21e5143361c
-SHA256: c7b3ca06a78b9294198ff3b417e13a5f3a922a473b52b8c6ed49e0f277763d63
+Filename: pool/dvc/muti-php7.4-pgsql_7.4.33-9_arm.deb
+Size: 812
+MD5sum: c0f2872ad525b39fa162ca07b994bd63
+SHA1: 943be24861878c13a4f283da9f122e8be3f1e840
+SHA256: d591a16d146b335c5586a35b2efcf86548cbedd99ab6e7a42aa1ca369e741b52
 Homepage: https://php.net
 Description: PostgreSQL modules for PHP
 
 Package: muti-php7.4
-Version: 7.4.33-8
+Version: 7.4.33-9
 Architecture: arm
 Maintainer: @Dichvucoder
-Installed-Size: 42112
+Installed-Size: 42412
 Depends: libc++, freetype, libandroid-glob, libandroid-support, libbz2, libcrypt, libcurl, libgd, libgmp, libiconv, liblzma, libsqlite, libxml2, libxslt, libzip, oniguruma, openssl-1.1, pcre2, readline, zlib, libicu, libffi, tidy
-Filename: pool/dvc/muti-php7.4_7.4.33-8_arm.deb
-Size: 7807716
-MD5sum: e84415eec5bc488e9f8d46c13c265328
-SHA1: 1d65c8f6774cabdbb5958076684d240317badd3a
-SHA256: dba6cf13af5f0b96e5b8487b2bf526c6e42ac613afafd55a6ed0b330f92d420c
+Filename: pool/dvc/muti-php7.4_7.4.33-9_arm.deb
+Size: 7841492
+MD5sum: e6112f05324ae21b974370dd44a04169
+SHA1: 654cb7002677de89f23d4d5284376241e0900a57
+SHA256: 3f20aec06cb11f1237073aaa7a5b7b695c14f77f11be1eb49eb09fc53485aad5
 Homepage: https://php.net
 Description: Server-side, HTML-embedded scripting language
 

@@ -1,0 +1,14 @@
+Package: muti-php7.4-crack-apache
+Version: 7.4.33-10
+Architecture: x86_64
+Maintainer: @Dichvucoder
+Installed-Size: 13260
+Depends: apache2, muti-php7.4-crack (= 7.4.33-10)
+Filename: pool/dvc/muti-php7.4-crack-apache_7.4.33-10_x86_64.deb
+Size: 2444136
+MD5sum: 613a14902d0ec1976a1948c3c3f2bdc8
+SHA1: a77a51869419992e1cb65acaf301a1b4e74422f4
+SHA256: 8a7ca421c4b9449d7de565d27a84ddddf1d445d0723bb519257901ac74219203
+Homepage: https://php.net
+Description: Apache 2.0 Handler module for PHP
+

@@ -1,0 +1,15 @@
+Package: muti-php7.4-pgsql
+Version: 7.4.33-9
+Architecture: arm
+Maintainer: @Dichvucoder
+Installed-Size: 24
+Depends: apr-util, postgresql, muti-php7.4 (= 7.4.33-9)
+Conflicts: php-pgsql
+Filename: pool/dvc/muti-php7.4-pgsql_7.4.33-9_arm.deb
+Size: 812
+MD5sum: c0f2872ad525b39fa162ca07b994bd63
+SHA1: 943be24861878c13a4f283da9f122e8be3f1e840
+SHA256: d591a16d146b335c5586a35b2efcf86548cbedd99ab6e7a42aa1ca369e741b52
+Homepage: https://php.net
+Description: PostgreSQL modules for PHP
+
