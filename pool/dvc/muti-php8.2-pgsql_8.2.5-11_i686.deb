@@ -1,0 +1,14 @@
+Package: muti-php8.2-pgsql
+Version: 8.2.5-11
+Architecture: i686
+Maintainer: @Dichvucoder
+Installed-Size: 24
+Depends: postgresql, muti-php8.2 (= 8.2.5-11)
+Filename: pool/dvc/muti-php8.2-pgsql_8.2.5-11_i686.deb
+Size: 800
+MD5sum: d174501b8adc074cc4833e95b472ecb9
+SHA1: 23686df5e64b6a73f1e50e556d32aad7a7a5231c
+SHA256: 4bf68f2fdcc4a29ccb9f35f6d173614caa74c1f3c16f7bac5d98a452a7446aee
+Homepage: https://php.net
+Description: PostgreSQL modules for PHP
+
