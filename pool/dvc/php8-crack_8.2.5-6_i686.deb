@@ -1,0 +1,16 @@
+Package: php8-crack
+Version: 8.2.5-6
+Architecture: i686
+Maintainer: @Dichvucoder
+Installed-Size: 49852
+Depends: libandroid-glob, libandroid-support, libbz2, libc++, libcurl, libffi, libgd, libgmp, libiconv, libicu, libresolv-wrapper, libsqlite, libxml2, libxslt, libzip, oniguruma, openssl, pcre2, readline, tidy, zlib
+Conflicts: php, php-mysql, php-dev, php7, php-8.1, php7-zts, php7.2, php7.2-zts, php7.2-threads, php7-crack
+Replaces: php, php-mysql, php-dev, php7, php-8.1, php7-zts, php7.2, php7.2-zts, php7.2-threads, php7-crack
+Filename: pool/dvc/php8-crack_8.2.5-6_i686.deb
+Size: 8947340
+MD5sum: a82c399ffd13c8267f0f0f5f7e231984
+SHA1: 632a75b066d1fa1c0d89f3e640e3bf79baa94cbb
+SHA256: 5111e3e75ec81c37f7566e7ede0540606cf0ab3772f3ad2d69c95b101afff60c
+Homepage: https://php.net
+Description: Server-side, HTML-embedded scripting language
+

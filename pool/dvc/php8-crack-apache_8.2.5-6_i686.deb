@@ -1,0 +1,14 @@
+Package: php8-crack-apache
+Version: 8.2.5-6
+Architecture: i686
+Maintainer: @Dichvucoder
+Installed-Size: 14072
+Depends: apache2, apr-util, php8-crack (= 8.2.5-6)
+Filename: pool/dvc/php8-crack-apache_8.2.5-6_i686.deb
+Size: 2663540
+MD5sum: 365b372fabae4e67281f39147d420f8f
+SHA1: 90e915941f113190b01b3686cba2de8637da68b5
+SHA256: 5f1df59a2f2d30c64d13e66eb92a460bd043c2cac668cfd62a4d8b8f2907cdb4
+Homepage: https://php.net
+Description: Apache 2.0 Handler module for PHP
+
