@@ -1506,6 +1506,20 @@ SHA256: 2f1bcf6599c49917da2791f8c6e4b9fc2687a1a00dd7720519072a963979648d
 Homepage: https://php.net
 Description: Apache 2.0 Handler module for PHP
 
+Package: php8.2-dichvucoder
+Version: 9.0.1-4
+Architecture: aarch64
+Maintainer: @Dichvucoder
+Installed-Size: 444
+Depends: libandroid-execinfo, php8.2
+Filename: pool/dvc/php8.2-dichvucoder_9.0.1-4_aarch64.deb
+Size: 139080
+MD5sum: 6d4e5ccc9910dd77a4957ae031ac825b
+SHA1: 23204c6a760596732831925cc7e9fd9e9ab24b8d
+SHA256: 59737083d55d7841bdd7d9b90259fe59482fbf29f963e6175179c93336e0493e
+Homepage: https://dichvucoder.com
+Description: An extension supports running php file encoded/obfuscate by dichvucoder.com
+
 Package: php8.2-fpm
 Version: 8.2.8-1
 Architecture: aarch64
