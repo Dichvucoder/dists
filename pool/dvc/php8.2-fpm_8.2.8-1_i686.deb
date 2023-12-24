@@ -1,0 +1,16 @@
+Package: php8.2-fpm
+Version: 8.2.8-1
+Architecture: i686
+Maintainer: @termux
+Installed-Size: 14216
+Depends: php8.2 (= 8.2.8-1)
+Breaks: php (<< 8.1.12)
+Replaces: php (<< 8.1.12)
+Filename: pool/dvc/php8.2-fpm_8.2.8-1_i686.deb
+Size: 2718612
+MD5sum: 198c58afe2d78a84a6b6b63bba17ea09
+SHA1: 452ecec086ae8112b388414b823afffd23a4ae51
+SHA256: fc156e181d37830d9227494c809354e7590ed1d5cf930a0d4750f12e33e20ba7
+Homepage: https://php.net
+Description: FastCGI Process Manager for PHP
+

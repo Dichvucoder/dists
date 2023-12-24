@@ -1,0 +1,16 @@
+Package: php8.2
+Version: 8.2.8-1
+Architecture: arm
+Maintainer: @termux
+Installed-Size: 44000
+Depends: libandroid-glob, libandroid-support, libbz2, libc++, libcurl, libffi, libgd, libgmp, libiconv, libicu, libresolv-wrapper, libsqlite, libxml2, libxslt, libzip, oniguruma, openssl, pcre2, readline, tidy, zlib
+Conflicts: php-mysql, php-dev
+Replaces: php-mysql, php-dev
+Filename: pool/dvc/php8.2_8.2.8-1_arm.deb
+Size: 7918580
+MD5sum: 2602e8fa5de2bcafca756e926fd8a98a
+SHA1: 96be40772eb3b9196600ec1bbf242afbe29b4201
+SHA256: ec6a32119b74dbd1fc4786599575b0457f4ece2fa955b8d583b0c76d9fb78aed
+Homepage: https://php.net
+Description: Server-side, HTML-embedded scripting language
+

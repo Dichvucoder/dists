@@ -1436,6 +1436,150 @@ SHA256: 68e70722318400c2c7b6674942ec74c80331cab5c223df8874583fd25ff2df0c
 Homepage: https://php.net
 Description: Server-side, HTML-embedded scripting language
 
+Package: php8.2-apache-ldap
+Version: 8.2.8-1
+Architecture: x86_64
+Maintainer: @termux
+Installed-Size: 132
+Depends: openldap, php-apache, php8.2 (= 8.2.8-1)
+Filename: pool/dvc/php8.2-apache-ldap_8.2.8-1_x86_64.deb
+Size: 27040
+MD5sum: 74b865fdc4ed380b759b55ee85c45521
+SHA1: 0ff7c878727fd9ef1657cb24de0544845f3fa1b3
+SHA256: 1d34d25b7fda97eb2b3df37f380c1f010c1a7bd23ac96c9744bb35776e9bd565
+Homepage: https://php.net
+Description: LDAP module for PHP/Apache
+
+Package: php8.2-apache-opcache
+Version: 8.2.8-1
+Architecture: x86_64
+Maintainer: @termux
+Installed-Size: 968
+Depends: php-apache, php8.2 (= 8.2.8-1)
+Filename: pool/dvc/php8.2-apache-opcache_8.2.8-1_x86_64.deb
+Size: 304708
+MD5sum: a3f1180b188682edf203da3861a42291
+SHA1: 98fdcf539d6dd64153df0f436b590d28e9a6b197
+SHA256: b9c61675927ec7185ec2ca3a40c0ac26d1555485ba3c8d911b955b1a2b630b2a
+Homepage: https://php.net
+Description: OPcache module for PHP/Apache
+
+Package: php8.2-apache-pgsql
+Version: 8.2.8-1
+Architecture: x86_64
+Maintainer: @termux
+Installed-Size: 224
+Depends: php-apache, postgresql, php8.2 (= 8.2.8-1)
+Filename: pool/dvc/php8.2-apache-pgsql_8.2.8-1_x86_64.deb
+Size: 48604
+MD5sum: c5ddc7614c28fa5a9867f73af46e6f51
+SHA1: 31ac58ec86ab5f9bd3d0dc82bb753eebaf1fc61d
+SHA256: 5036c165ca91b307754b915a39b4afbecc6e38980a68323a82c432ab7e167fd4
+Homepage: https://php.net
+Description: PostgreSQL modules for PHP/Apache
+
+Package: php8.2-apache-sodium
+Version: 8.2.8-1
+Architecture: x86_64
+Maintainer: @termux
+Installed-Size: 148
+Depends: libsodium, php-apache, php8.2 (= 8.2.8-1)
+Filename: pool/dvc/php8.2-apache-sodium_8.2.8-1_x86_64.deb
+Size: 22260
+MD5sum: cb9fcbdcb3c2d898c21f8539510a1a32
+SHA1: dcb2da74d2595fb1e9ade26b4aa9b89cf2bbf721
+SHA256: ee68fdf1c4d1d049de34e74174424dafc3f1e33b15fe171a97aee11320d54f09
+Homepage: https://php.net
+Description: Sodium module for PHP/Apache
+
+Package: php8.2-apache
+Version: 8.2.8-1
+Architecture: x86_64
+Maintainer: @termux
+Installed-Size: 15236
+Depends: apache2, apr-util, php8.2 (= 8.2.8-1)
+Filename: pool/dvc/php8.2-apache_8.2.8-1_x86_64.deb
+Size: 2730912
+MD5sum: 5cc88e554d68e1c97fb4d5fe43f060e3
+SHA1: 0a19c46a27bccf7c1dad0dd97a4847c7e17e93ed
+SHA256: c1f6359cf16bf9181cd5853d0388d1324c1fa2efdcb8f2b094290d804f4adb17
+Homepage: https://php.net
+Description: Apache 2.0 Handler module for PHP
+
+Package: php8.2-fpm
+Version: 8.2.8-1
+Architecture: x86_64
+Maintainer: @termux
+Installed-Size: 15340
+Depends: php8.2 (= 8.2.8-1)
+Breaks: php (<< 8.1.12)
+Replaces: php (<< 8.1.12)
+Filename: pool/dvc/php8.2-fpm_8.2.8-1_x86_64.deb
+Size: 2792772
+MD5sum: f1780d174fd56cc6ef819b2567d5eaaf
+SHA1: 35de1a5bb4da84c5c4a79446617537f6aad32f2c
+SHA256: e25eca884303c09cbed3215b269e20d2be1887d2454a86aeeb3dfe9f1e8bb526
+Homepage: https://php.net
+Description: FastCGI Process Manager for PHP
+
+Package: php8.2-ldap
+Version: 8.2.8-1
+Architecture: x86_64
+Maintainer: @termux
+Installed-Size: 120
+Depends: openldap, php8.2 (= 8.2.8-1)
+Filename: pool/dvc/php8.2-ldap_8.2.8-1_x86_64.deb
+Size: 26776
+MD5sum: 129d9d618637708323b6b3e1b750aecf
+SHA1: 7fb8d8f1ecf8e61f67485030a5f9c5f5b01472e2
+SHA256: 1f57922786bf9bd5d1177954b2a0626ece408338661e5404b2a77c91cfd1337e
+Homepage: https://php.net
+Description: LDAP module for PHP
+
+Package: php8.2-pgsql
+Version: 8.2.8-1
+Architecture: x86_64
+Maintainer: @termux
+Installed-Size: 196
+Depends: postgresql, php8.2 (= 8.2.8-1)
+Filename: pool/dvc/php8.2-pgsql_8.2.8-1_x86_64.deb
+Size: 47980
+MD5sum: bedbedacff7d8a345cca27822958a3b5
+SHA1: ee09c998997891c1cc92348b72c405386385df59
+SHA256: 41ebf0fc21819a6c1c421f89cfbbd2c8cf09d51ccc23e40551fb057274cc18a7
+Homepage: https://php.net
+Description: PostgreSQL modules for PHP
+
+Package: php8.2-sodium
+Version: 8.2.8-1
+Architecture: x86_64
+Maintainer: @termux
+Installed-Size: 132
+Depends: libsodium, php8.2 (= 8.2.8-1)
+Filename: pool/dvc/php8.2-sodium_8.2.8-1_x86_64.deb
+Size: 22280
+MD5sum: 9245df2ddbe33af725e0cbd47a63c1bd
+SHA1: b336f1e82b16bac794ee0260ec894027fe479f24
+SHA256: a33c8c6919cde5d4e7e14e69893de5d0e636b58206a63322b7f1d28543fa77aa
+Homepage: https://php.net
+Description: Sodium module for PHP
+
+Package: php8.2
+Version: 8.2.8-1
+Architecture: x86_64
+Maintainer: @termux
+Installed-Size: 53460
+Depends: libandroid-glob, libandroid-support, libbz2, libc++, libcurl, libffi, libgd, libgmp, libiconv, libicu, libresolv-wrapper, libsqlite, libxml2, libxslt, libzip, oniguruma, openssl, pcre2, readline, tidy, zlib
+Conflicts: php-mysql, php-dev
+Replaces: php-mysql, php-dev
+Filename: pool/dvc/php8.2_8.2.8-1_x86_64.deb
+Size: 9211560
+MD5sum: 3e40f433c6dfc4a9e5f9a054cc669ab3
+SHA1: 4ae00dcbddf7952620b387f20f697a17284c6a94
+SHA256: 44b590bf10cc5bb42d2a28bf20279c99dcc340a9b82d16a095d2de91b6b15cc2
+Homepage: https://php.net
+Description: Server-side, HTML-embedded scripting language
+
 Package: test-packages
 Version: 0.1.1
 Architecture: x86_64

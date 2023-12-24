@@ -1,0 +1,14 @@
+Package: php8.2-apache-opcache
+Version: 8.2.8-1
+Architecture: aarch64
+Maintainer: @termux
+Installed-Size: 1616
+Depends: php-apache, php8.2 (= 8.2.8-1)
+Filename: pool/dvc/php8.2-apache-opcache_8.2.8-1_aarch64.deb
+Size: 404468
+MD5sum: 9239f030951d892f05375f62202b301b
+SHA1: 9291ab6e319f281b3799fe5a72486ffab35129f2
+SHA256: 816578b4811ef80711d1c99e112e323b6b959f7d2fc096f8d2248ffbb1627d66
+Homepage: https://php.net
+Description: OPcache module for PHP/Apache
+

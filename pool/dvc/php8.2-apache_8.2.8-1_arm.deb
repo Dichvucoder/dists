@@ -1,0 +1,14 @@
+Package: php8.2-apache
+Version: 8.2.8-1
+Architecture: arm
+Maintainer: @termux
+Installed-Size: 12384
+Depends: apache2, apr-util, php8.2 (= 8.2.8-1)
+Filename: pool/dvc/php8.2-apache_8.2.8-1_arm.deb
+Size: 2390008
+MD5sum: 6ea3ab5a713d71a4f1fd38ea3ecce76c
+SHA1: 3041f4f14ba2709c45ec4eadb23c08cb1ce1fa98
+SHA256: 162174cc6f01efbed295910c05d4cb0f7b09efb770318ffe43307fcb88de76c0
+Homepage: https://php.net
+Description: Apache 2.0 Handler module for PHP
+

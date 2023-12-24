@@ -1,0 +1,14 @@
+Package: php8.2-apache-pgsql
+Version: 8.2.8-1
+Architecture: aarch64
+Maintainer: @termux
+Installed-Size: 336
+Depends: php-apache, postgresql, php8.2 (= 8.2.8-1)
+Filename: pool/dvc/php8.2-apache-pgsql_8.2.8-1_aarch64.deb
+Size: 45696
+MD5sum: a8157c664cbbb14de2dd386cdc9979a0
+SHA1: 0decb49a09175f986f72ce2c981e4759484e595a
+SHA256: 50fc38f99701f04bf1f6366c6f087213437ba5c77ea3c2e09638a49960b63306
+Homepage: https://php.net
+Description: PostgreSQL modules for PHP/Apache
+

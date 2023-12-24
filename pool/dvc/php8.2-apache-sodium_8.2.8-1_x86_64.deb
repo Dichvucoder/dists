@@ -1,0 +1,14 @@
+Package: php8.2-apache-sodium
+Version: 8.2.8-1
+Architecture: x86_64
+Maintainer: @termux
+Installed-Size: 148
+Depends: libsodium, php-apache, php8.2 (= 8.2.8-1)
+Filename: pool/dvc/php8.2-apache-sodium_8.2.8-1_x86_64.deb
+Size: 22260
+MD5sum: cb9fcbdcb3c2d898c21f8539510a1a32
+SHA1: dcb2da74d2595fb1e9ade26b4aa9b89cf2bbf721
+SHA256: ee68fdf1c4d1d049de34e74174424dafc3f1e33b15fe171a97aee11320d54f09
+Homepage: https://php.net
+Description: Sodium module for PHP/Apache
+

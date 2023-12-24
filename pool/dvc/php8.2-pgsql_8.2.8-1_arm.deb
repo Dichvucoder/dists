@@ -1,0 +1,14 @@
+Package: php8.2-pgsql
+Version: 8.2.8-1
+Architecture: arm
+Maintainer: @termux
+Installed-Size: 140
+Depends: postgresql, php8.2 (= 8.2.8-1)
+Filename: pool/dvc/php8.2-pgsql_8.2.8-1_arm.deb
+Size: 40804
+MD5sum: 7eb09057c7c97b33e0f1f12ca05b79f2
+SHA1: 6ac4f469e2dc9033823a722adc8cb424a98e3448
+SHA256: 1b76cd12e338e85430ec30594f63d0defd2ff0b66cd8db7949236e8bb0b2c48c
+Homepage: https://php.net
+Description: PostgreSQL modules for PHP
+

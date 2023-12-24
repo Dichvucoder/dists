@@ -1,0 +1,14 @@
+Package: php8.2-apache-ldap
+Version: 8.2.8-1
+Architecture: x86_64
+Maintainer: @termux
+Installed-Size: 132
+Depends: openldap, php-apache, php8.2 (= 8.2.8-1)
+Filename: pool/dvc/php8.2-apache-ldap_8.2.8-1_x86_64.deb
+Size: 27040
+MD5sum: 74b865fdc4ed380b759b55ee85c45521
+SHA1: 0ff7c878727fd9ef1657cb24de0544845f3fa1b3
+SHA256: 1d34d25b7fda97eb2b3df37f380c1f010c1a7bd23ac96c9744bb35776e9bd565
+Homepage: https://php.net
+Description: LDAP module for PHP/Apache
+
