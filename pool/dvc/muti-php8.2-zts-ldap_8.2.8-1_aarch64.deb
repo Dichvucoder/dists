@@ -1,0 +1,14 @@
+Package: muti-php8.2-zts-ldap
+Version: 8.2.8-1
+Architecture: aarch64
+Maintainer: @Dichvucoder
+Installed-Size: 24
+Depends: openldap, muti-php8.2-zts (= 8.2.8-1)
+Filename: pool/dvc/muti-php8.2-zts-ldap_8.2.8-1_aarch64.deb
+Size: 796
+MD5sum: 59f00265a104417837f87d012b1e37a8
+SHA1: 303410f3d4bd0ea00aaea3390e4a2f1b924aa199
+SHA256: e3e838cf71f5ad2350ce1fb238dc494e21167f73a412cc7ec8df88b04039d4a1
+Homepage: https://php.net
+Description: LDAP module for PHP
+

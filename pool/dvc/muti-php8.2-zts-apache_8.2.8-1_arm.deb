@@ -1,0 +1,14 @@
+Package: muti-php8.2-zts-apache
+Version: 8.2.8-1
+Architecture: arm
+Maintainer: @Dichvucoder
+Installed-Size: 12640
+Depends: apache2, apr-util, muti-php8.2-zts (= 8.2.8-1)
+Filename: pool/dvc/muti-php8.2-zts-apache_8.2.8-1_arm.deb
+Size: 2485456
+MD5sum: cd21421f3f17085c43cb573ef1134c23
+SHA1: 34b4b16e9c6ff97d925ffaf6395d3e316140294a
+SHA256: 64033a5d0775a92d59c0522620c3529c3f22f85deda296a4f8e9e768b9c06c19
+Homepage: https://php.net
+Description: Apache 2.0 Handler module for PHP
+
