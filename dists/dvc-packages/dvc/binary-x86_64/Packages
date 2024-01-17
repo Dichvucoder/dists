@@ -1749,3 +1749,17 @@ SHA256: 2fd1448d531e2f66c15fc109ecb94b806169cdfb9a417cd0bb7e77aee740dbd6
 Homepage: https://github.com/Dichvucoder/dvc-packages
 Description: Dummy test for dvc packages
 
+Package: muti-php8.2-composer
+Version: 2.6.6
+Architecture: all
+Maintainer: @PuneetGopinath
+Installed-Size: 2840
+Depends: muti-php8.2
+Filename: pool/dvc/muti-php8.2-composer_2.6.6_all.deb
+Size: 529636
+MD5sum: 021b0b0c1b9b60c0e9acf758c9c2caa7
+SHA1: a9d4781f59430f148033ea3965c58e0569b9cec8
+SHA256: 8d6f240e29d62c9cdd844465c9de38dc499def683527dd209676008acb7146c3
+Homepage: https://getcomposer.org/
+Description: Dependency Manager for PHP
+
