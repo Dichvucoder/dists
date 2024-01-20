@@ -44,10 +44,10 @@ Architecture: aarch64
 Maintainer: @Dichvucoder
 Installed-Size: 48
 Filename: pool/dvc/just-a-test-package_0.2.2_aarch64.deb
-Size: 2152
-MD5sum: bfb37779a61dcde53e08bcd73289b10d
-SHA1: d148def3a7c667032ac008af5c683c80fed664b1
-SHA256: 877b9b52f99efff3bc39670afc66635461454f8e1474bbb17329a05baede094c
+Size: 2156
+MD5sum: fb3cd185c1c29a12c3a248b506baa2b4
+SHA1: ef063e05855cb5538e7e57ea46d4ae11dccd9cd6
+SHA256: 493e451e00be2c69d82cfe02c2ab5a0aa3061c43a5bf2bf0b865181336c261f7
 Homepage: https://github.com/Dichvucoder-company/dvc-packages
 Description: Dummy test for dvc packages
 

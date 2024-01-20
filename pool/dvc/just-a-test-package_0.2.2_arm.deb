@@ -4,10 +4,10 @@ Architecture: arm
 Maintainer: @Dichvucoder
 Installed-Size: 44
 Filename: pool/dvc/just-a-test-package_0.2.2_arm.deb
-Size: 2032
-MD5sum: 375712f0924c40dcf117263b0fdb43dd
-SHA1: 8e67ea1cb5f70c98c7a27005c7aa837bf164e5bb
-SHA256: a68a5265763183c8857dc3f14ff7bb7c0ee71b0bf6f5dabcb1c60ea249f4fddf
+Size: 2044
+MD5sum: 61134d9f7cbee55dcf98aafcc22555e8
+SHA1: fd2c41c6c54c181655929e82f39e0c3b10586006
+SHA256: 7b4aafe6bd79a2fd1054f6bc5c77800d631c13670e32820968a3f54b7baf36ca
 Homepage: https://github.com/Dichvucoder-company/dvc-packages
 Description: Dummy test for dvc packages
 

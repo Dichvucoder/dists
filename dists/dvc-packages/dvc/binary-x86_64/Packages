@@ -44,10 +44,10 @@ Architecture: x86_64
 Maintainer: @Dichvucoder
 Installed-Size: 44
 Filename: pool/dvc/just-a-test-package_0.2.2_x86_64.deb
-Size: 2072
-MD5sum: 7177edc42f8dccf5b9c33a063e7944bd
-SHA1: a083aac99a09d7ee002cc223be1746ed366b1f9b
-SHA256: f82a1638c18f6613c04ae36eeba129e5ea26bd80fb14e2368a8d89e7f9dab4b3
+Size: 2084
+MD5sum: 931b8c1570a5542369620785258f575c
+SHA1: 01ecab29267920e819bb20dca7c431525efca6ce
+SHA256: 8ee0000653434124648dbea8d4895db4130dc9231d1a85d0d9623f86a58f5294
 Homepage: https://github.com/Dichvucoder-company/dvc-packages
 Description: Dummy test for dvc packages
 

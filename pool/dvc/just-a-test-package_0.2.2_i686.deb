@@ -4,10 +4,10 @@ Architecture: i686
 Maintainer: @Dichvucoder
 Installed-Size: 44
 Filename: pool/dvc/just-a-test-package_0.2.2_i686.deb
-Size: 2164
-MD5sum: 80003bd469e6e0d58a183bf0c504665f
-SHA1: 2db6bcabf7c8d19396c01df31ef658ca70e6c1b4
-SHA256: 5820dd20538f5d26843cb1dd6f0b1fd5ea4389e40647ba5afe656554cb91cb08
+Size: 2176
+MD5sum: ab628376968107fc99f2a8f3d254acec
+SHA1: 1ef326a2201f5f0fc0328f419059f53b8a956729
+SHA256: 8e5201c6f5ff7b5375f29d508adba0a6cffb8d01aaff6b9351e9a35f36947946
 Homepage: https://github.com/Dichvucoder-company/dvc-packages
 Description: Dummy test for dvc packages
 
