@@ -1,0 +1,13 @@
+Package: huy-repo
+Version: 1.0.0
+Architecture: all
+Maintainer: @u400822
+Installed-Size: 60
+Filename: pool/dvc/huy-repo_1.0.0_all.deb
+Size: 2844
+MD5sum: 9ba1b5bb24252893651ac0d94a7ce375
+SHA1: 7701eb0f2b06ab9eadeb4f91d4347145f2e97fd2
+SHA256: 35be64d9e29bf7bf77b42e416f768f20a02d9d534f36edc8f59895230440ccea
+Homepage: https://u400822.github.io/
+Description: Community repository maintained by Huy Pro
+
