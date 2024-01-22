@@ -4,10 +4,10 @@ Architecture: x86_64
 Maintainer: @Dgbaodev
 Installed-Size: 10776
 Filename: pool/dvc/dvc-tools_9-1_x86_64.deb
-Size: 6415048
-MD5sum: c143c4652ef6ad783b70b16182dc75ec
-SHA1: 9b810a0eb2bfac4920f946096875d6770e0911f8
-SHA256: 07c8560b7de75f3015c91a2b5f052a6a2ab4ce65ec1ec7a387e0c9f257b425d9
+Size: 6415540
+MD5sum: 46ceab1f839f1a1c32708773b427b7a7
+SHA1: 8e589ddb5ab9c20cf10e0c0d45b252a017ff3b38
+SHA256: 65874287fab3496a6aa84ed537daeda5b12cc3726ff2fe05526e063db70d44f5
 Homepage: https://dgbaodev.com
 Description: Dichvucoder Tools FULL Version 9 By DGBAO DEV
 

@@ -4,10 +4,10 @@ Architecture: aarch64
 Maintainer: @Dgbaodev
 Installed-Size: 10776
 Filename: pool/dvc/dvc-tools_9-1_aarch64.deb
-Size: 6414988
-MD5sum: fa9d74557254b5dc8933d30e6d5ea9c4
-SHA1: 759798c57bade8d0a863c9cedd43f59f92a8f984
-SHA256: b814b2992df7c8725a449af7759afd90b633455f7f208aa94747c9638247aa5b
+Size: 6415312
+MD5sum: d8f02c9134e78d0c0d0776e401510bfc
+SHA1: 66aad36f0c43fce4b83eba6888f0282959bd64d2
+SHA256: 483b700dace03c1fed040fdd38ef1af76db07019db70e65e60df4d701e3c81ee
 Homepage: https://dgbaodev.com
 Description: Dichvucoder Tools FULL Version 9 By DGBAO DEV
 
