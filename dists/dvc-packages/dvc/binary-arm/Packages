@@ -1,13 +1,13 @@
 Package: dvc-tools
-Version: 9-1
+Version: 9-2
 Architecture: arm
 Maintainer: @Dgbaodev
 Installed-Size: 10776
-Filename: pool/dvc/dvc-tools_9-1_arm.deb
-Size: 6415832
-MD5sum: 561fb50a341ac5d3a81b10d4c2986dea
-SHA1: d261ba9fd81d3d94a65010c96e7912b6ac8868ec
-SHA256: 2cc3c319f421a3a892954d35947482de0bdb8871c408c5608aeff92beb735d2a
+Filename: pool/dvc/dvc-tools_9-2_arm.deb
+Size: 6415548
+MD5sum: d4148b2f9c83fd5500f0095675646859
+SHA1: 51a98d4119d5942e54d7f4953231d8a3d0459979
+SHA256: ca1524585f9f0521f2c8abd7ed89735ecf6bf13ee873b349a0cb9e4b251271a1
 Homepage: https://dgbaodev.com
 Description: Dichvucoder Tools FULL Version 9 By DGBAO DEV
 
