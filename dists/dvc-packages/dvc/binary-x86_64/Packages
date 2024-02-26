@@ -1649,16 +1649,16 @@ Homepage: https://php.net
 Description: Apache 2.0 Handler module for PHP
 
 Package: php8.2-dichvucoder
-Version: 9.0.1-4
+Version: 9.0.2
 Architecture: x86_64
 Maintainer: @Dichvucoder
 Installed-Size: 468
 Depends: libandroid-execinfo, php8.2
-Filename: pool/dvc/php8.2-dichvucoder_9.0.1-4_x86_64.deb
-Size: 145668
-MD5sum: cd76859fd009817609e45395242f47cb
-SHA1: 5fc7bfe420b7c86f1386c5a069b0c49fec8d9427
-SHA256: 7a4e1583dcf44c5e1deab7eb695395b96c501e3c232b3a375eec4d99ec8e86f3
+Filename: pool/dvc/php8.2-dichvucoder_9.0.2_x86_64.deb
+Size: 145884
+MD5sum: 8949ceba3ab506db2a9abd3bb44c3eda
+SHA1: 8525ffecb76a57fd927371791e9f69402820cf5b
+SHA256: 2ff3d87282f7dfd828e4862f2ce226762b010acd166e47a902f09cfa0daea01d
 Homepage: https://dichvucoder.com
 Description: An extension supports running php file encoded/obfuscate by dichvucoder.com
 
