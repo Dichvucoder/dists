@@ -920,16 +920,16 @@ Homepage: https://dichvucoder.com
 Description: An extension supports running php file encoded/obfuscate by dichvucoder.com
 
 Package: php-dichvucoder
-Version: 9.0.2
+Version: 9.0.2-1
 Architecture: arm
 Maintainer: @Dichvucoder
 Installed-Size: 320
 Depends: libandroid-execinfo, php
-Filename: pool/dvc/php-dichvucoder_9.0.2_arm.deb
-Size: 121184
-MD5sum: 0fa45e9520c8794ee4ee647ae218b802
-SHA1: af5043ebc2e938bb807d8490169cadcaa545b4ba
-SHA256: 26755df205c31297875dd7bd09c963fa29cb831ddc2f6892845a948ced32083a
+Filename: pool/dvc/php-dichvucoder_9.0.2-1_arm.deb
+Size: 121124
+MD5sum: 25ac1b0088f2659d559beb4a8da2f0f9
+SHA1: b799a73001aa81e653df76470d10406df0d3ea7b
+SHA256: a35b934dbffcbf66274fa591656e3456904943a140025389db776a3e1fdb2279
 Homepage: https://dichvucoder.com
 Description: An extension supports running php file encoded/obfuscate by dichvucoder.com
 
