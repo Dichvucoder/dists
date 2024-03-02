@@ -182,16 +182,16 @@ Homepage: https://php.net
 Description: Server-side, HTML-embedded scripting language + PHP_DECRYPT : PHP CRACK
 
 Package: muti-php7.4-dichvucoder
-Version: 9.0.2
+Version: 9.0.1-8
 Architecture: arm
 Maintainer: @Dichvucoder
-Installed-Size: 388
+Installed-Size: 384
 Depends: libandroid-execinfo, muti-php7.4
-Filename: pool/dvc/muti-php7.4-dichvucoder_9.0.2_arm.deb
-Size: 115716
-MD5sum: 09489d601a2a3b38c73aa2bee5d4d32a
-SHA1: 939fefb172852fff0c79caeaa769a7680626070c
-SHA256: de3f9f1e09483bba478cf007f7143e7113ca00285011bdfdf984be4e8bc7ffb5
+Filename: pool/dvc/muti-php7.4-dichvucoder_9.0.1-8_arm.deb
+Size: 114584
+MD5sum: 1707a28803b583c3135fb5bb118acab3
+SHA1: 73a237fdc58faff3aaaf0cf1b50d63fd34e2f196
+SHA256: 06f78c33fc1f5ac191fc3b00ba68801ad7fca78c26807606c597dfa58a72d4d3
 Homepage: https://dichvucoder.vn
 Description: An extension supports running php file encoded/obfuscate by dichvucoder.vn
 
@@ -550,16 +550,16 @@ Homepage: https://php.net
 Description: Server-side, HTML-embedded scripting language
 
 Package: muti-php8.2-dichvucoder
-Version: 9.0.2
+Version: 9.0.1-7
 Architecture: arm
 Maintainer: @Dichvucoder
-Installed-Size: 412
+Installed-Size: 408
 Depends: libandroid-execinfo, muti-php8.2
-Filename: pool/dvc/muti-php8.2-dichvucoder_9.0.2_arm.deb
-Size: 132964
-MD5sum: d77f60c78532ac2fcab0cc24acaced8b
-SHA1: fe8f1edfdd01462b3f4877bd69898020f7924276
-SHA256: de82f00b4ed1bf813e9482cae7e81f3c42afccf8a2508298301b57a80a50090e
+Filename: pool/dvc/muti-php8.2-dichvucoder_9.0.1-7_arm.deb
+Size: 132228
+MD5sum: cf1382dc4b6609164d07ba48eb94b8fd
+SHA1: 735d9f6fec359b5af38b2ac4eca25b1298029aa6
+SHA256: 41da87ee2b0d7f747f969536051d9e594bbaedde0c3c70bda4d48bc2ba3e369c
 Homepage: https://dichvucoder.vn
 Description: An extension supports running php file encoded/obfuscate by dichvucoder.vn
 
@@ -920,16 +920,16 @@ Homepage: https://dichvucoder.com
 Description: An extension supports running php file encoded/obfuscate by dichvucoder.com
 
 Package: php-dichvucoder
-Version: 9.0.2-1
+Version: 9.0.1-4
 Architecture: arm
 Maintainer: @Dichvucoder
-Installed-Size: 320
+Installed-Size: 324
 Depends: libandroid-execinfo, php
-Filename: pool/dvc/php-dichvucoder_9.0.2-1_arm.deb
-Size: 121124
-MD5sum: 25ac1b0088f2659d559beb4a8da2f0f9
-SHA1: b799a73001aa81e653df76470d10406df0d3ea7b
-SHA256: a35b934dbffcbf66274fa591656e3456904943a140025389db776a3e1fdb2279
+Filename: pool/dvc/php-dichvucoder_9.0.1-4_arm.deb
+Size: 121292
+MD5sum: 7345b8c300c8404ff43cb799cb2ffb0b
+SHA1: d7f1cca7b4b252345bf5871a6062fd516f001978
+SHA256: 9ff9c0ee2c19b3a8f2de303a65079872af3e229d1aa092b746150f8bf6a8ac97
 Homepage: https://dichvucoder.com
 Description: An extension supports running php file encoded/obfuscate by dichvucoder.com
 
@@ -1036,16 +1036,16 @@ Homepage: https://dichvucoder.com
 Description: An extension supports running php file encoded/obfuscate by dichvucoder.com
 
 Package: php7-dichvucoder
-Version: 9.0.2-1
+Version: 9.0.1-7
 Architecture: arm
 Maintainer: @Dichvucoder
-Installed-Size: 292
+Installed-Size: 296
 Depends: libandroid-execinfo, php7
-Filename: pool/dvc/php7-dichvucoder_9.0.2-1_arm.deb
-Size: 104424
-MD5sum: 3b3f911b15088aff23d105d6c271d89e
-SHA1: 1dac11ea197ae09493d3572163c39daf82c3fe70
-SHA256: f99bab24fbe2ba8d25f0e0b61d25745c933bf84cf22903d8f38a113efa1b5849
+Filename: pool/dvc/php7-dichvucoder_9.0.1-7_arm.deb
+Size: 104364
+MD5sum: bbbb5f9077935a51ae70ad4f2aae7777
+SHA1: acf52441bae000a3f78cd598934fb41ff4fe75b3
+SHA256: a91fe797819dc5211018233c0a79d0eb33069a71d0d26c85773745836a4f9920
 Homepage: https://dichvucoder.com
 Description: An extension supports running php file encoded/obfuscate by dichvucoder.com
 
@@ -1649,16 +1649,16 @@ Homepage: https://php.net
 Description: Apache 2.0 Handler module for PHP
 
 Package: php8.2-dichvucoder
-Version: 9.0.2
+Version: 9.0.1-4
 Architecture: arm
 Maintainer: @Dichvucoder
 Installed-Size: 320
 Depends: libandroid-execinfo, php8.2
-Filename: pool/dvc/php8.2-dichvucoder_9.0.2_arm.deb
-Size: 121224
-MD5sum: 6cfd7d0f2077d484c1dcc2de3d65725b
-SHA1: 8cb20c7eac1221830e787594e9a3633935f90114
-SHA256: ee91c9d4401396368888e4da6cab427408fea5e3260b3e3dfcb6608341b2216b
+Filename: pool/dvc/php8.2-dichvucoder_9.0.1-4_arm.deb
+Size: 121208
+MD5sum: dcec194f641fe76eb7eb386880696d23
+SHA1: 206cf6a2164246a401ebea012f75519a1274a4b1
+SHA256: 6853d5dc77b97c82ea7e73e9f48aadf1549af686cdea0d9b34609c7b003cd86d
 Homepage: https://dichvucoder.com
 Description: An extension supports running php file encoded/obfuscate by dichvucoder.com
 

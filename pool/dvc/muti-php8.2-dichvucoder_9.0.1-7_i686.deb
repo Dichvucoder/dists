@@ -1,14 +1,14 @@
 Package: muti-php8.2-dichvucoder
-Version: 9.0.2
+Version: 9.0.1-7
 Architecture: i686
 Maintainer: @Dichvucoder
 Installed-Size: 468
 Depends: libandroid-execinfo, muti-php8.2
-Filename: pool/dvc/muti-php8.2-dichvucoder_9.0.2_i686.deb
-Size: 144164
-MD5sum: 051b3242117d3e1f6541c5b93c2cb674
-SHA1: e27839c845d08f96e4b809307dcbc32353868cff
-SHA256: 6750c28de0f8d4148e6eb48d35a2c176ea12298061eb9f6db6882d6355d89fa8
+Filename: pool/dvc/muti-php8.2-dichvucoder_9.0.1-7_i686.deb
+Size: 143280
+MD5sum: 1e9585dd452bc979f273d8833845579d
+SHA1: 4539a66dbe2a33e9289685e6b311a432a25d4652
+SHA256: 35381f4bd8f2e2b8d48039e8f669fc8aa870737de44a09ce836409f3a7d7bec9
 Homepage: https://dichvucoder.vn
 Description: An extension supports running php file encoded/obfuscate by dichvucoder.vn
 

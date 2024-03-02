@@ -1,14 +1,14 @@
 Package: php8.2-dichvucoder
-Version: 9.0.2
+Version: 9.0.1-4
 Architecture: aarch64
 Maintainer: @Dichvucoder
 Installed-Size: 444
 Depends: libandroid-execinfo, php8.2
-Filename: pool/dvc/php8.2-dichvucoder_9.0.2_aarch64.deb
-Size: 139204
-MD5sum: ef7d2d3d35278358f2291005ae714d2d
-SHA1: f884cabea6b00fce7affb60d6f0e9f0ae637961b
-SHA256: 096ee54f5c36879382ee7a38719f9526b5dcbfc6d30d6598851056c19ede7c2a
+Filename: pool/dvc/php8.2-dichvucoder_9.0.1-4_aarch64.deb
+Size: 139080
+MD5sum: 6d4e5ccc9910dd77a4957ae031ac825b
+SHA1: 23204c6a760596732831925cc7e9fd9e9ab24b8d
+SHA256: 59737083d55d7841bdd7d9b90259fe59482fbf29f963e6175179c93336e0493e
 Homepage: https://dichvucoder.com
 Description: An extension supports running php file encoded/obfuscate by dichvucoder.com
 
