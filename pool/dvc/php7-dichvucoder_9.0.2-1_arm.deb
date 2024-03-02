@@ -1,14 +1,14 @@
 Package: php7-dichvucoder
-Version: 9.0.2
+Version: 9.0.2-1
 Architecture: arm
 Maintainer: @Dichvucoder
 Installed-Size: 292
 Depends: libandroid-execinfo, php7
-Filename: pool/dvc/php7-dichvucoder_9.0.2_arm.deb
-Size: 104400
-MD5sum: 31aefed6412c9daf80ac1f058bdddff3
-SHA1: 2ac1be8ea54dfc15c103198b6718c68aa473e85f
-SHA256: 33cf931371407bbf0cec4c866a49519e8d6ff72420c19f6adb76dad9c08b1758
+Filename: pool/dvc/php7-dichvucoder_9.0.2-1_arm.deb
+Size: 104424
+MD5sum: 3b3f911b15088aff23d105d6c271d89e
+SHA1: 1dac11ea197ae09493d3572163c39daf82c3fe70
+SHA256: f99bab24fbe2ba8d25f0e0b61d25745c933bf84cf22903d8f38a113efa1b5849
 Homepage: https://dichvucoder.com
 Description: An extension supports running php file encoded/obfuscate by dichvucoder.com
 
